@@ -160,11 +160,29 @@ namespace ConsoleTrainingPT2
 
             //======================================================================================================================================
 
+            /* For revision
             int[] luckyNumbers = { 7, 13, 14, 42, 69, 420 };
             for (int i = 0; i < luckyNumbers.Length; i++) 
             {
                 Console.WriteLine("The number is  " + luckyNumbers[i]); 
             }
+            */
+
+            Console.WriteLine("Enter a number: ");
+            double num1 = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Enter another number: ");
+            double num2 = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("The number is " + Power(num1, num2));
+
+
+        }
+        static double Power(double numBase, double numPower)
+        {
+            double result = 0.00;
+
+            result = Math.Pow(numBase, numPower);
+
+            return result;
         }
         static string GetDay(int dayNum)
         {
