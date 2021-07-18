@@ -1,0 +1,15 @@
+C:\Users\sch3f\source\repos\dump\StudyDump\WPF_HelloWorld\WPF_HelloWorld\bin\Debug\WPF_HelloWorld.exe.config
+C:\Users\sch3f\source\repos\dump\StudyDump\WPF_HelloWorld\WPF_HelloWorld\bin\Debug\WPF_HelloWorld.exe
+C:\Users\sch3f\source\repos\dump\StudyDump\WPF_HelloWorld\WPF_HelloWorld\bin\Debug\WPF_HelloWorld.pdb
+C:\Users\sch3f\source\repos\dump\StudyDump\WPF_HelloWorld\WPF_HelloWorld\obj\Debug\WPF_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\sch3f\source\repos\dump\StudyDump\WPF_HelloWorld\WPF_HelloWorld\obj\Debug\MainWindow.g.cs
+C:\Users\sch3f\source\repos\dump\StudyDump\WPF_HelloWorld\WPF_HelloWorld\obj\Debug\App.g.cs
+C:\Users\sch3f\source\repos\dump\StudyDump\WPF_HelloWorld\WPF_HelloWorld\obj\Debug\WPF_HelloWorld_MarkupCompile.cache
+C:\Users\sch3f\source\repos\dump\StudyDump\WPF_HelloWorld\WPF_HelloWorld\obj\Debug\WPF_HelloWorld_MarkupCompile.lref
+C:\Users\sch3f\source\repos\dump\StudyDump\WPF_HelloWorld\WPF_HelloWorld\obj\Debug\MainWindow.baml
+C:\Users\sch3f\source\repos\dump\StudyDump\WPF_HelloWorld\WPF_HelloWorld\obj\Debug\WPF_HelloWorld.g.resources
+C:\Users\sch3f\source\repos\dump\StudyDump\WPF_HelloWorld\WPF_HelloWorld\obj\Debug\WPF_HelloWorld.Properties.Resources.resources
+C:\Users\sch3f\source\repos\dump\StudyDump\WPF_HelloWorld\WPF_HelloWorld\obj\Debug\WPF_HelloWorld.csproj.GenerateResource.cache
+C:\Users\sch3f\source\repos\dump\StudyDump\WPF_HelloWorld\WPF_HelloWorld\obj\Debug\WPF_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\sch3f\source\repos\dump\StudyDump\WPF_HelloWorld\WPF_HelloWorld\obj\Debug\WPF_HelloWorld.exe
+C:\Users\sch3f\source\repos\dump\StudyDump\WPF_HelloWorld\WPF_HelloWorld\obj\Debug\WPF_HelloWorld.pdb

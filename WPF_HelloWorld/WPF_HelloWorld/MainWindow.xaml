@@ -1,0 +1,18 @@
+﻿<Window x:Class="WPF_HelloWorld.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_HelloWorld"
+        mc:Ignorable="d"
+        Title="Hello World Window" Height="250" Width="200">
+    <StackPanel>
+        <TextBlock> <Italic>Hello </Italic> <Bold>B</Bold>orld
+            <LineBreak/> Check out my <Hyperlink RequestNavigate="Hyperlink_RequestNavigate" NavigateUri="https://www.github.com/sch3fr">soundcloud</Hyperlink><LineBreak/>
+        </TextBlock>
+        <TextBlock TextWrapping="WrapWithOverflow">
+            Please DO NOT buy the <Span Foreground="Red">BTS</Span> meal if you don't stan them. You're preventing the actual <Span Foreground="Red">BTS</Span> fans who have waited for months from having the <Span Foreground="Red">BTS</Span> meal experience. Eating the sauces without understanding their significance is literally cultural appropriation and it's not okay
+
+        </TextBlock>
+    </StackPanel>
+</Window>
