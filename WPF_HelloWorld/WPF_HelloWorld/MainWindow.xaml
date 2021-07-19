@@ -5,14 +5,102 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPF_HelloWorld"
         mc:Ignorable="d"
-        Title="Hello World Window" Height="250" Width="200">
+        Title="Hello World Window" Height="800" Width="400">
     <StackPanel>
-        <TextBlock> <Italic>Hello </Italic> <Bold>B</Bold>orld
+        <TextBlock x:Name="firstTextBlock"> <Italic>Hello </Italic> <Bold>B</Bold>orld
             <LineBreak/> Check out my <Hyperlink RequestNavigate="Hyperlink_RequestNavigate" NavigateUri="https://www.github.com/sch3fr">soundcloud</Hyperlink><LineBreak/>
         </TextBlock>
         <TextBlock TextWrapping="WrapWithOverflow">
             Please DO NOT buy the <Span Foreground="Red">BTS</Span> meal if you don't stan them. You're preventing the actual <Span Foreground="Red">BTS</Span> fans who have waited for months from having the <Span Foreground="Red">BTS</Span> meal experience. Eating the sauces without understanding their significance is literally cultural appropriation and it's not okay
-
         </TextBlock>
+        <Label Margin="10,16,10,0"
+               BorderThickness="1"
+               BorderBrush="Black">
+            <StackPanel Orientation="Horizontal">
+                <Image Width="100" 
+                       Source="https://pbs.twimg.com/profile_images/1411746520920174597/-fcnH7hJ_400x400.jpg"></Image>
+                <AccessText FontSize="65" 
+                            Text="Hi Anjou">
+                </AccessText>
+            </StackPanel>
+        </Label>
+        <TextBox FontSize="32" 
+                 Margin="16"
+                 AcceptsReturn="True"
+                 TextWrapping="Wrap"
+                 Background="Cyan"
+                 Foreground="Magenta"
+                 Text="im sad again :(">
+        </TextBox>
+        <StackPanel Orientation="Horizontal">
+            <Button Name="theButton" 
+                    Background="CornflowerBlue"
+                    Width="100" 
+                    Height="30" 
+                    Click="Button_Click" 
+                    ToolTip="( ͡° ͜ʖ ͡°)"
+                    MouseEnter="theButton_MouseEnter"
+                    MouseLeave="theButton_MouseLeave"
+                    MouseDoubleClick="theButton_MouseDoubleClick" >
+                Click me!</Button>
+            <Label FontSize="16" Name="theLabel">Look at me</Label>
+        </StackPanel>
+        <StackPanel>
+            <Label FontWeight="Bold" 
+                   FontSize="11">Chose Your Friend:</Label>
+            <RadioButton x:Name="rbMae" 
+                         GroupName="Friend" 
+                         VerticalContentAlignment="Center" 
+                         Margin="6"
+                         Checked="rbMae_Checked"
+                         Unchecked="rbMae_Unchecked">
+                <WrapPanel Name="wpMae">
+                    <Image Height="40" 
+                           Source="https://static.wikia.nocookie.net/nightinthewoods/images/b/ba/Mae-Gif.gif/revision/latest/top-crop/width/200/height/150?cb=20181120090110"></Image>
+                    <Label Name="lbMae" FontSize="20">Mae</Label>
+                </WrapPanel>
+            </RadioButton>
+            <RadioButton x:Name="rbGregg" 
+                         GroupName="Friend" 
+                         VerticalContentAlignment="Center" 
+                         Margin="6"
+                         Checked="rbGregg_Checked"
+                         Unchecked="rbGregg_Unchecked">
+                <WrapPanel Name="wpGregg">
+                    <Image Height="40" 
+                           Source="https://static.wikia.nocookie.net/nightinthewoods/images/8/8c/Gregg.gif/revision/latest/top-crop/width/200/height/150?cb=20170812134133"></Image>
+                    <Label FontSize="20">Gregg</Label>
+                </WrapPanel>
+            </RadioButton>
+            <RadioButton x:Name="rbBea" 
+                         GroupName="Friend" 
+                         VerticalContentAlignment="Center" 
+                         Margin="6"
+                         Checked="rbBea_Checked"
+                         Unchecked="rbBea_Unchecked">
+                <WrapPanel Name="wpBea">
+                    <Image Height="40" 
+                           Source="https://static.wikia.nocookie.net/nightinthewoods/images/8/8c/Bea.gif/revision/latest/top-crop/width/200/height/150?cb=20190506091215"></Image>
+                    <Label FontSize="20">Bea</Label>
+                </WrapPanel>
+            </RadioButton>
+            <RadioButton x:Name="rbAngus" 
+                         GroupName="Friend" 
+                         VerticalContentAlignment="Center" 
+                         Margin="6"
+                         Checked="rbAngus_Checked"
+                         Unchecked="rbAngus_Unchecked">
+                <WrapPanel Name="wpAngus">
+                    <Image Height="40" 
+                           Source="https://static.wikia.nocookie.net/nightinthewoods/images/a/af/Angus_Delaney_Sitting.png/revision/latest/top-crop/width/200/height/150?cb=20170319055626"></Image>
+                    <Label FontSize="20">Angus</Label>
+                </WrapPanel>
+            </RadioButton>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <RadioButton Margin="10" VerticalContentAlignment="Center">1</RadioButton>
+            <RadioButton Margin="10" VerticalContentAlignment="Center">2</RadioButton>
+            <RadioButton Margin="10" VerticalContentAlignment="Center">3</RadioButton>
+        </StackPanel>
     </StackPanel>
 </Window>

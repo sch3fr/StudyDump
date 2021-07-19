@@ -1,4 +1,6 @@
 # StudyDump
+There is nothing useful here, it's hust me messing around.
+
 Listen I know I started 3 repos in like 1 month, but I just want repo to dump all my practise stuff and to color the activity squares
 
 ## What is this repo?
@@ -11,3 +13,5 @@ I did some more of the C# revision with freeCodeCamp C# crash course. Even thoug
 I finally finished the C# course. It really helped me with understanding concepts like classes and stuf. Honestly the video course was better then whole semester of 'Introduction to OOP'.
 ## 18-JUL-21
 Today I finally scratched the surface of WPM with actual study materials. No random messing around anymore, just reading the documentation and following the guidance of another C# course, this time focused on the WPF. I hope I'll be able to understand XAML soon, so I can get to Xamarin ASAP.
+## 19-JUL-21
+Although I found it really difficult to focus today, I still did quite a lot, I think. Looking up someone explaining the connections between .xaml and .xaml.cs files is tremendously helpful.
