@@ -15,3 +15,5 @@ I finally finished the C# course. It really helped me with understanding concept
 Today I finally scratched the surface of WPM with actual study materials. No random messing around anymore, just reading the documentation and following the guidance of another C# course, this time focused on the WPF. I hope I'll be able to understand XAML soon, so I can get to Xamarin ASAP.
 ## 19-JUL-21
 Although I found it really difficult to focus today, I still did quite a lot, I think. Looking up someone explaining the connections between .xaml and .xaml.cs files is tremendously helpful.
+## 20-JUL-21
+I did some UI tweaks and learned about new thing is WPF. Today is the 8th day of the challenge (I started this log on the 3rd day) and I really hope I can bring myself to really code everyday. While I like coding, it was really hard for me to force myself to actually do it today and yesterday. Here's to better tommorow.

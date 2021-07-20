@@ -51,58 +51,61 @@
                 Click me!</Button>
             <Label FontSize="16" Name="theLabel">Look at me</Label>
         </StackPanel>
+        <Label FontWeight="Bold" FontSize="11">Chose Your Friend:</Label>
         <StackPanel>
-            <Label FontWeight="Bold" 
-                   FontSize="11">Chose Your Friend:</Label>
-            <RadioButton x:Name="rbMae" 
-                         GroupName="Friend" 
-                         VerticalContentAlignment="Center" 
-                         Margin="6"
-                         Checked="rbMae_Checked"
-                         Unchecked="rbMae_Unchecked">
-                <WrapPanel Name="wpMae">
-                    <Image Height="40" 
-                           Source="https://static.wikia.nocookie.net/nightinthewoods/images/b/ba/Mae-Gif.gif/revision/latest/top-crop/width/200/height/150?cb=20181120090110"></Image>
-                    <Label Name="lbMae" FontSize="20">Mae</Label>
-                </WrapPanel>
-            </RadioButton>
-            <RadioButton x:Name="rbGregg" 
-                         GroupName="Friend" 
-                         VerticalContentAlignment="Center" 
-                         Margin="6"
-                         Checked="rbGregg_Checked"
-                         Unchecked="rbGregg_Unchecked">
-                <WrapPanel Name="wpGregg">
-                    <Image Height="40" 
-                           Source="https://static.wikia.nocookie.net/nightinthewoods/images/8/8c/Gregg.gif/revision/latest/top-crop/width/200/height/150?cb=20170812134133"></Image>
-                    <Label FontSize="20">Gregg</Label>
-                </WrapPanel>
-            </RadioButton>
-            <RadioButton x:Name="rbBea" 
+            <StackPanel Orientation="Horizontal">
+                    <RadioButton x:Name="rbMae" 
+                             GroupName="Friend" 
+                            VerticalContentAlignment="Center" 
+                            Margin="6"
+                            Checked="rbMae_Checked"
+                            Unchecked="rbMae_Unchecked">
+                    <WrapPanel Name="wpMae">
+                        <Image Height="40" 
+                            Source="https://static.wikia.nocookie.net/nightinthewoods/images/b/ba/Mae-Gif.gif/revision/latest/top-crop/width/200/height/150?cb=20181120090110"></Image>
+                        <Label Name="lbMae" FontSize="20">Mae</Label>
+                    </WrapPanel>
+                    </RadioButton>
+                <RadioButton x:Name="rbGregg" 
+                             GroupName="Friend" 
+                             VerticalContentAlignment="Center" 
+                             Margin="6"
+                            Checked="rbGregg_Checked"
+                            Unchecked="rbGregg_Unchecked">
+                    <WrapPanel Name="wpGregg">
+                        <Image Height="40" 
+                               Source="https://static.wikia.nocookie.net/nightinthewoods/images/8/8c/Gregg.gif/revision/latest/top-crop/width/200/height/150?cb=20170812134133"></Image>
+                        <Label FontSize="20">Gregg</Label>
+                    </WrapPanel>
+                </RadioButton>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <RadioButton x:Name="rbBea" 
                          GroupName="Friend" 
                          VerticalContentAlignment="Center" 
                          Margin="6"
                          Checked="rbBea_Checked"
                          Unchecked="rbBea_Unchecked">
-                <WrapPanel Name="wpBea">
-                    <Image Height="40" 
+                    <WrapPanel Name="wpBea">
+                        <Image Height="40" 
                            Source="https://static.wikia.nocookie.net/nightinthewoods/images/8/8c/Bea.gif/revision/latest/top-crop/width/200/height/150?cb=20190506091215"></Image>
-                    <Label FontSize="20">Bea</Label>
-                </WrapPanel>
-            </RadioButton>
-            <RadioButton x:Name="rbAngus" 
+                        <Label FontSize="20">Bea</Label>
+                    </WrapPanel>
+                </RadioButton>
+                <RadioButton x:Name="rbAngus" 
                          GroupName="Friend" 
                          VerticalContentAlignment="Center" 
                          Margin="6"
                          Checked="rbAngus_Checked"
                          Unchecked="rbAngus_Unchecked">
-                <WrapPanel Name="wpAngus">
-                    <Image Height="40" 
+                    <WrapPanel Name="wpAngus">
+                        <Image Height="40" 
                            Source="https://static.wikia.nocookie.net/nightinthewoods/images/a/af/Angus_Delaney_Sitting.png/revision/latest/top-crop/width/200/height/150?cb=20170319055626"></Image>
-                    <Label FontSize="20">Angus</Label>
-                </WrapPanel>
-            </RadioButton>
-        </StackPanel>
+                        <Label FontSize="20">Angus</Label>
+                    </WrapPanel>
+                </RadioButton>
+            </StackPanel>
+    </StackPanel>
         <StackPanel Orientation="Horizontal">
             <RadioButton Margin="5" 
                          VerticalContentAlignment="Center">1</RadioButton>
@@ -149,12 +152,15 @@
             <Slider x:Name="mySlider"
                     ValueChanged="mySlider_ValueChanged"
                     Margin="10" 
-                    Maximum="100" 
+                    Maximum="50" 
                     TickPlacement="BottomRight" 
-                    TickFrequency="10" 
+                    TickFrequency="2" 
                     IsSnapToTickEnabled="True"
-                    Value="50"></Slider>
+                    Value="10"></Slider>
             <TextBlock x:Name="myTextblock"></TextBlock>
         </StackPanel>
+        <Viewbox Stretch="Fill">
+            <Calendar></Calendar>
+        </Viewbox>
     </StackPanel>
 </Window>
