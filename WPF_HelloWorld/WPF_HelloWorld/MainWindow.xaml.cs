@@ -115,5 +115,51 @@ namespace WPF_HelloWorld
         {
             boxAlab.Background = Brushes.White;
         }
+
+        private void checkAll_Checked(object sender, RoutedEventArgs e)
+        {
+            bool value = (checkAll.IsChecked == true);
+            order1.IsChecked = value;
+            order2.IsChecked = value;
+            order3.IsChecked = value;
+            order4.IsChecked = value;
+            order5.IsChecked = value;
+            orderLabel.Content = "And a large soda";
+
+            if((checkAll.IsChecked == false) || (checkAll.IsChecked == null))
+            {
+                orderLabel.Content = "Your order";
+            }
+        }
+
+        private void orderChanged(object sender, RoutedEventArgs e)
+        {
+            checkAll.IsChecked = null;
+            if((order1.IsChecked == true) && (order2.IsChecked == true) && (order3.IsChecked == true) && (order4.IsChecked == true) && (order5.IsChecked == true))
+            {
+                checkAll.IsChecked = true;
+            }
+            if ((order1.IsChecked == false) && (order2.IsChecked == false) && (order3.IsChecked == false) && (order4.IsChecked == false) && (order5.IsChecked == false))
+            {
+                checkAll.IsChecked = false;
+            }
+        }
+
+        private void mySlider_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
+        {
+            if(myTextblock != null) 
+            {
+                double fontSize = mySlider.Value;
+                myTextblock.Text = "The value is " + mySlider.Value.ToString();
+                try
+                {
+                    myTextblock.FontSize = fontSize;
+                }
+                catch
+                {
+                    myTextblock.FontSize = 1;
+                }
+            }
+        }
     }
 }

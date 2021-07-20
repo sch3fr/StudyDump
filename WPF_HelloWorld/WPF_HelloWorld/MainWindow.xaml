@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPF_HelloWorld"
         mc:Ignorable="d"
-        Title="Hello World Window" Height="800" Width="400">
+        Title="Hello World Window" Height="800" Width="450">
     <StackPanel>
         <TextBlock x:Name="firstTextBlock" Margin="10,10,10,0"> <Italic>Hello </Italic> <Bold>B</Bold>orld
             <LineBreak/> Check out my <Hyperlink RequestNavigate="Hyperlink_RequestNavigate" NavigateUri="https://www.github.com/sch3fr">soundcloud</Hyperlink>
@@ -13,25 +13,30 @@
         <TextBlock TextWrapping="WrapWithOverflow" Margin="10,10,10,0">
             Please DO NOT buy the <Span Foreground="Red">BTS</Span> meal if you don't stan them. You're preventing the actual <Span Foreground="Red">BTS</Span> fans who have waited for months from having the <Span Foreground="Red">BTS</Span> meal experience. Eating the sauces without understanding their significance is literally cultural appropriation and it's not okay
         </TextBlock>
-        <Label Margin="10,16,10,0"
+        <Label Margin="10,5,10,0"
                BorderThickness="1"
                BorderBrush="Black">
             <StackPanel Orientation="Horizontal">
-                <Image Width="100" 
+                <Image Width="50" 
                        Source="https://pbs.twimg.com/profile_images/1411746520920174597/-fcnH7hJ_400x400.jpg"></Image>
-                <AccessText FontSize="65" 
-                            Text="Hi Anjou">
+                <AccessText FontSize="32" 
+                            Text="Hello Anjou-san :)">
                 </AccessText>
             </StackPanel>
         </Label>
-        <TextBox FontSize="32" 
+        <TextBox FontSize="20" 
                  Margin="10"
                  AcceptsReturn="True"
                  TextWrapping="Wrap"
                  Background="Cyan"
                  Foreground="Magenta"
-                 Text="im sad again :(">
+                 Text="im sad again :( ... login pls">
         </TextBox>
+        <PasswordBox FontSize="20"
+                     Margin="10,0,10,10"
+                     PasswordChar="~"
+                     MaxLength="12"
+                     ></PasswordBox>
         <StackPanel Orientation="Horizontal">
             <Button Name="theButton" 
                     Background="CornflowerBlue"
@@ -99,19 +104,57 @@
             </RadioButton>
         </StackPanel>
         <StackPanel Orientation="Horizontal">
-            <RadioButton Margin="10" 
+            <RadioButton Margin="5" 
                          VerticalContentAlignment="Center">1</RadioButton>
-            <RadioButton Margin="10" 
+            <RadioButton Margin="5" 
                          VerticalContentAlignment="Center">2</RadioButton>
-            <RadioButton Margin="10" 
+            <RadioButton Margin="5" 
                          VerticalContentAlignment="Center">3</RadioButton>
-            <RadioButton Margin="10" 
+            <RadioButton Margin="5" 
                          VerticalContentAlignment="Center">4</RadioButton>
-            <CheckBox x:Name="boxA" Checked="boxA_Checked" Unchecked="boxA_Unchecked" Margin="10" VerticalContentAlignment="Center">
+            <CheckBox x:Name="boxA" Checked="boxA_Checked" Unchecked="boxA_Unchecked" Margin="5" VerticalContentAlignment="Center">
                 <Label Name="boxAlab">A</Label></CheckBox>
-            <CheckBox Margin="10" VerticalContentAlignment="Center">B</CheckBox>
-            <CheckBox Margin="10" VerticalContentAlignment="Center">C</CheckBox>
-            <CheckBox Margin="10" VerticalContentAlignment="Center">D</CheckBox>
+            <CheckBox Margin="5" VerticalContentAlignment="Center">B</CheckBox>
+            <CheckBox Margin="5" VerticalContentAlignment="Center">C</CheckBox>
+            <CheckBox Margin="5" VerticalContentAlignment="Center">D</CheckBox>
+        </StackPanel>
+        <StackPanel>
+            <Label x:Name="orderLabel">Your order</Label>
+            <CheckBox x:Name="checkAll" 
+                      Margin="0,5,0,5" 
+                      IsThreeState="True"
+                      Checked="checkAll_Checked"
+                      Unchecked="checkAll_Checked"
+                      >Select all
+            </CheckBox>
+            <StackPanel Orientation="Horizontal">
+                <CheckBox x:Name="order1"
+                          Checked="orderChanged"
+                          Unchecked="orderChanged">Num 9</CheckBox>
+                <CheckBox x:Name="order2"
+                          Checked="orderChanged"
+                          Unchecked="orderChanged">Num 9 large</CheckBox>
+                <CheckBox x:Name="order3"
+                          Checked="orderChanged"
+                          Unchecked="orderChanged">Num 6 + extra dip</CheckBox>
+                <CheckBox x:Name="order4"
+                          Checked="orderChanged"
+                          Unchecked="orderChanged">Num 7</CheckBox>
+                <CheckBox x:Name="order5"
+                          Checked="orderChanged"
+                          Unchecked="orderChanged">2x Num 45</CheckBox>
+            </StackPanel>
+        </StackPanel>
+        <StackPanel>
+            <Slider x:Name="mySlider"
+                    ValueChanged="mySlider_ValueChanged"
+                    Margin="10" 
+                    Maximum="100" 
+                    TickPlacement="BottomRight" 
+                    TickFrequency="10" 
+                    IsSnapToTickEnabled="True"
+                    Value="50"></Slider>
+            <TextBlock x:Name="myTextblock"></TextBlock>
         </StackPanel>
     </StackPanel>
 </Window>
