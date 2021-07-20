@@ -7,10 +7,10 @@
         mc:Ignorable="d"
         Title="Hello World Window" Height="800" Width="400">
     <StackPanel>
-        <TextBlock x:Name="firstTextBlock"> <Italic>Hello </Italic> <Bold>B</Bold>orld
-            <LineBreak/> Check out my <Hyperlink RequestNavigate="Hyperlink_RequestNavigate" NavigateUri="https://www.github.com/sch3fr">soundcloud</Hyperlink><LineBreak/>
+        <TextBlock x:Name="firstTextBlock" Margin="10,10,10,0"> <Italic>Hello </Italic> <Bold>B</Bold>orld
+            <LineBreak/> Check out my <Hyperlink RequestNavigate="Hyperlink_RequestNavigate" NavigateUri="https://www.github.com/sch3fr">soundcloud</Hyperlink>
         </TextBlock>
-        <TextBlock TextWrapping="WrapWithOverflow">
+        <TextBlock TextWrapping="WrapWithOverflow" Margin="10,10,10,0">
             Please DO NOT buy the <Span Foreground="Red">BTS</Span> meal if you don't stan them. You're preventing the actual <Span Foreground="Red">BTS</Span> fans who have waited for months from having the <Span Foreground="Red">BTS</Span> meal experience. Eating the sauces without understanding their significance is literally cultural appropriation and it's not okay
         </TextBlock>
         <Label Margin="10,16,10,0"
@@ -25,7 +25,7 @@
             </StackPanel>
         </Label>
         <TextBox FontSize="32" 
-                 Margin="16"
+                 Margin="10"
                  AcceptsReturn="True"
                  TextWrapping="Wrap"
                  Background="Cyan"
@@ -37,6 +37,7 @@
                     Background="CornflowerBlue"
                     Width="100" 
                     Height="30" 
+                    Margin="10,0,0,0"
                     Click="Button_Click" 
                     ToolTip="( ͡° ͜ʖ ͡°)"
                     MouseEnter="theButton_MouseEnter"
@@ -98,9 +99,19 @@
             </RadioButton>
         </StackPanel>
         <StackPanel Orientation="Horizontal">
-            <RadioButton Margin="10" VerticalContentAlignment="Center">1</RadioButton>
-            <RadioButton Margin="10" VerticalContentAlignment="Center">2</RadioButton>
-            <RadioButton Margin="10" VerticalContentAlignment="Center">3</RadioButton>
+            <RadioButton Margin="10" 
+                         VerticalContentAlignment="Center">1</RadioButton>
+            <RadioButton Margin="10" 
+                         VerticalContentAlignment="Center">2</RadioButton>
+            <RadioButton Margin="10" 
+                         VerticalContentAlignment="Center">3</RadioButton>
+            <RadioButton Margin="10" 
+                         VerticalContentAlignment="Center">4</RadioButton>
+            <CheckBox x:Name="boxA" Checked="boxA_Checked" Unchecked="boxA_Unchecked" Margin="10" VerticalContentAlignment="Center">
+                <Label Name="boxAlab">A</Label></CheckBox>
+            <CheckBox Margin="10" VerticalContentAlignment="Center">B</CheckBox>
+            <CheckBox Margin="10" VerticalContentAlignment="Center">C</CheckBox>
+            <CheckBox Margin="10" VerticalContentAlignment="Center">D</CheckBox>
         </StackPanel>
     </StackPanel>
 </Window>
