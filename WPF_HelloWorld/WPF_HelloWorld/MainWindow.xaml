@@ -159,8 +159,10 @@
                     Value="10"></Slider>
             <TextBlock x:Name="myTextblock"></TextBlock>
         </StackPanel>
-        <Viewbox Stretch="Fill">
-            <Calendar></Calendar>
-        </Viewbox>
+        <Expander Header="Click for a surprise :)">
+            <TextBlock TextWrapping="Wrap">
+                i’m 11 but i’m turning 12 in like 3 months and plus i watch adult shows like family guy and the simpsons so i’m really mature and my mom says i’m really mature for my age and i’m friends with a lot of 7th graders even though i’m going into 6th grade so i’m a kid but i’m like an adult
+            </TextBlock>
+        </Expander>
     </StackPanel>
 </Window>
