@@ -17,3 +17,5 @@ Today I finally scratched the surface of WPM with actual study materials. No ran
 Although I found it really difficult to focus today, I still did quite a lot, I think. Looking up someone explaining the connections between .xaml and .xaml.cs files is tremendously helpful.
 ## 20-JUL-21
 I did some UI tweaks and learned about new thing is WPF. Today is the 8th day of the challenge (I started this log on the 3rd day) and I really hope I can bring myself to really code everyday. While I like coding, it was really hard for me to force myself to actually do it today and yesterday. Here's to better tommorow.
+## 21-JUL-21
+Finally I got to learning the XAML layouts. I'm so excited!
