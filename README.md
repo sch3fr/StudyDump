@@ -19,3 +19,5 @@ Although I found it really difficult to focus today, I still did quite a lot, I 
 I did some UI tweaks and learned about new thing is WPF. Today is the 8th day of the challenge (I started this log on the 3rd day) and I really hope I can bring myself to really code everyday. While I like coding, it was really hard for me to force myself to actually do it today and yesterday. Here's to better tommorow.
 ## 21-JUL-21
 Finally I got to learning the XAML layouts. I'm so excited!
+## 22-JUL-21
+I dinished the WPF course today, so I went ahead and edid the Just(To)DoIt UI with the knowledge I gained. Now it looks much better and it stays good looking even when resizing the window! I'm doing the logic behind it tommorow, which is kinda scary since my skills are shaky there.
