@@ -18,13 +18,13 @@
             <RowDefinition Height="1*"/>
         </Grid.RowDefinitions>
         <Button Grid.Column="0" Grid.Row="0">Button 00</Button>
-        <Button Grid.Column="1" Grid.Row="1">Button 11</Button>
+        <Button Grid.Column="1" Grid.Row="1" Grid.RowSpan="2">Button 11</Button>
         <Button Width="100" Grid.Column="2" Grid.Row="2">Button 22</Button>
-        <Button Grid.Column="0" Grid.Row="1">Button 01</Button>
-        <Button Grid.Column="0" Grid.Row="2">Button 02</Button>
-        <Button Grid.Column="1" Grid.Row="0">Button 10</Button>
-        <Button Grid.Column="1" Grid.Row="2">Button 12</Button>
-        <Button Grid.Column="2" Grid.Row="0">Button 20</Button>
-        <Button Grid.Column="2" Grid.Row="1">Button 21</Button>
+        <Button Grid.Column="0" Grid.Row="1">Button 10</Button>
+        <Button Grid.Column="0" Grid.Row="2">Button 20</Button>
+        <Button Grid.Column="1" Grid.Row="0">Button 01</Button>
+        
+        <Button Grid.Column="2" Grid.Row="0">Button 02</Button>
+        <Button Grid.Column="2" Grid.Row="1">Button 12</Button>
     </Grid>
 </Window>
