@@ -21,7 +21,9 @@ I did some UI tweaks and learned about new thing is WPF. Today is the 8th day of
 Finally I got to learning the XAML layouts. I'm so excited!
 ## 22-JUL-21
 I dinished the WPF course today, so I went ahead and edid the Just(To)DoIt UI with the knowledge I gained. Now it looks much better and it stays good looking even when resizing the window! I'm doing the logic behind it tommorow, which is kinda scary since my skills are shaky there.
-## 23-Jul-21
+## 23-JUL-21
 Couldn't do my coding the first thing in the morning as always, so I had to wait untill the afternoon to be able to write some code. Unfortunately I found out that I'm not as well equiped for xaml app as I thought I was. I'm stuck and I can't seem to resolve it. It's kinda demotivating, ngl.
 ### EDIT
 I managed to fix one of the problems, so while I'm not confident in my skills, I still feel better about everything than before.
+## 24-JUL-21
+Not much done today. I am stuck again. I did some tweaks and removed some useless pieces of code, but in terms of the logic behind my Just(To)DoIt app not much has been done today.
