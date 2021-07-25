@@ -27,3 +27,5 @@ Couldn't do my coding the first thing in the morning as always, so I had to wait
 I managed to fix one of the problems, so while I'm not confident in my skills, I still feel better about everything than before.
 ## 24-JUL-21
 Not much done today. I am stuck again. I did some tweaks and removed some useless pieces of code, but in terms of the logic behind my Just(To)DoIt app not much has been done today.
+## 25-JUL-21
+Trying to wrap my head around data binding. It could make my project so much easier. I spent most of yesterday's session trying to (unsuccessfully) google all the errors, now I know I can just use different approach.

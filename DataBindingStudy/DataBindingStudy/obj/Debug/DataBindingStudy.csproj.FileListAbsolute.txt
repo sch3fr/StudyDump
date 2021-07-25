@@ -1,0 +1,15 @@
+C:\Users\sch3f\source\repos\dump\StudyDump\DataBindingStudy\DataBindingStudy\bin\Debug\DataBindingStudy.exe.config
+C:\Users\sch3f\source\repos\dump\StudyDump\DataBindingStudy\DataBindingStudy\bin\Debug\DataBindingStudy.exe
+C:\Users\sch3f\source\repos\dump\StudyDump\DataBindingStudy\DataBindingStudy\bin\Debug\DataBindingStudy.pdb
+C:\Users\sch3f\source\repos\dump\StudyDump\DataBindingStudy\DataBindingStudy\obj\Debug\DataBindingStudy.csproj.AssemblyReference.cache
+C:\Users\sch3f\source\repos\dump\StudyDump\DataBindingStudy\DataBindingStudy\obj\Debug\MainWindow.g.cs
+C:\Users\sch3f\source\repos\dump\StudyDump\DataBindingStudy\DataBindingStudy\obj\Debug\App.g.cs
+C:\Users\sch3f\source\repos\dump\StudyDump\DataBindingStudy\DataBindingStudy\obj\Debug\DataBindingStudy_MarkupCompile.cache
+C:\Users\sch3f\source\repos\dump\StudyDump\DataBindingStudy\DataBindingStudy\obj\Debug\DataBindingStudy_MarkupCompile.lref
+C:\Users\sch3f\source\repos\dump\StudyDump\DataBindingStudy\DataBindingStudy\obj\Debug\MainWindow.baml
+C:\Users\sch3f\source\repos\dump\StudyDump\DataBindingStudy\DataBindingStudy\obj\Debug\DataBindingStudy.g.resources
+C:\Users\sch3f\source\repos\dump\StudyDump\DataBindingStudy\DataBindingStudy\obj\Debug\DataBindingStudy.Properties.Resources.resources
+C:\Users\sch3f\source\repos\dump\StudyDump\DataBindingStudy\DataBindingStudy\obj\Debug\DataBindingStudy.csproj.GenerateResource.cache
+C:\Users\sch3f\source\repos\dump\StudyDump\DataBindingStudy\DataBindingStudy\obj\Debug\DataBindingStudy.csproj.CoreCompileInputs.cache
+C:\Users\sch3f\source\repos\dump\StudyDump\DataBindingStudy\DataBindingStudy\obj\Debug\DataBindingStudy.exe
+C:\Users\sch3f\source\repos\dump\StudyDump\DataBindingStudy\DataBindingStudy\obj\Debug\DataBindingStudy.pdb
