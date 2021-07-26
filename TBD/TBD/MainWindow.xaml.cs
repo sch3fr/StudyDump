@@ -13,6 +13,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Windows.Forms;
 
 namespace TBD
 {
@@ -25,12 +26,15 @@ namespace TBD
         public MainWindow()
         {
             allTasks = new ObservableCollection<string>();
+            
             InitializeComponent();
             this.DataContext = this;
         }
         private void buttonDelOne_Click(object sender, RoutedEventArgs e)
         {
-            allTasks.RemoveAt(0);
+            //allTasks.RemoveAt(0);
+
+            //allTasks.Remove(list.SelectedItem);
         }
 
         private void buttonDelAll_Click(object sender, RoutedEventArgs e)
@@ -40,7 +44,7 @@ namespace TBD
 
         private void buttonAdd_Click(object sender, RoutedEventArgs e)
         {
-            allTasks.Add("new task heehee");
+            //allTasks.Add({ Title = "new task hee"});
         }
     }
 }
