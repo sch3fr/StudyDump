@@ -5,8 +5,42 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPF_currency"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="uwu" SizeToContent="WidthAndHeight" WindowStartupLocation="CenterScreen">
     <Grid>
-        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60" />
+            <RowDefinition Height="80" />
+            <RowDefinition Height="150" />
+            <RowDefinition Height="100" />
+            <RowDefinition Height="150" />
+        </Grid.RowDefinitions>
+        <Border Grid.Row="2"
+                Width="800"
+                CornerRadius="10"
+                BorderThickness="5">
+            <Border.BorderBrush>
+                <LinearGradientBrush StartPoint="0,0"
+                                     EndPoint="1,0">
+                    <GradientStop Color="#ec2075"
+                                  Offset="0.0" />
+                    <GradientStop Color="#f33944"
+                                  Offset="0.5" />
+                </LinearGradientBrush>
+            </Border.BorderBrush>
+            <Rectangle Grid.Row="2">
+                <Rectangle.Fill>
+                    <LinearGradientBrush StartPoint="0,0"
+                                         EndPoint="1,0">
+                        <GradientStop Color="#ec2075"
+                                      Offset="0.0" />
+                        <GradientStop Color="#f33944"
+                                      Offset="0.5" />
+                    </LinearGradientBrush>
+                </Rectangle.Fill>
+            </Rectangle>
+        </Border>
+        <StackPanel Grid.Row="0" Width="1000" Height="50" Orientation="Horizontal">
+            <Label Content="Currency Conventer" Width="1000" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="25" Foreground="#ec2075"></Label>
+        </StackPanel>
     </Grid>
 </Window>

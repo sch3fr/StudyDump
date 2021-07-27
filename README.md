@@ -31,3 +31,5 @@ Not much done today. I am stuck again. I did some tweaks and removed some useles
 Trying to wrap my head around data binding. It could make my project so much easier. I spent most of yesterday's session trying to (unsuccessfully) google all the errors, now I know I can just use different approach.
 ## 26-JUL-21
 I think I need to look up some more info about WPF, since I am still confused about lots of things. Hopefuly I'll get unstuck soon.
+## 27-JUL-21
+It was hard to actually bring myself to code today, but I'm glad I did. I like to keep the streak going.
