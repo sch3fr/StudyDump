@@ -42,5 +42,17 @@
         <StackPanel Grid.Row="0" Width="1000" Height="50" Orientation="Horizontal">
             <Label Content="Currency Conventer" Width="1000" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="25" Foreground="#ec2075"></Label>
         </StackPanel>
+        <StackPanel Grid.Row="1"
+                    Orientation="Vertical"
+                    HorizontalAlignment="Center"
+                    Height="80"
+                    Width="1000">
+            <Label Height="40"
+                   Width="1000"
+                   HorizontalContentAlignment="Center"
+                   VerticalContentAlignment="Center"
+                   Content="Converted Currency"
+                   FontSize="20"></Label>
+        </StackPanel>
     </Grid>
 </Window>
