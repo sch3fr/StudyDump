@@ -24,5 +24,20 @@ namespace WPF_currency
         {
             InitializeComponent();
         }
+
+        private void txtCurrency_PreviewTextInput(object sender, TextCompositionEventArgs e)
+        {
+
+        }
+
+        private void Convert_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Clear_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
