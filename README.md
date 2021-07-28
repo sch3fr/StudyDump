@@ -33,3 +33,5 @@ Trying to wrap my head around data binding. It could make my project so much eas
 I think I need to look up some more info about WPF, since I am still confused about lots of things. Hopefuly I'll get unstuck soon.
 ## 27-JUL-21
 It was hard to actually bring myself to code today, but I'm glad I did. I like to keep the streak going.
+## 28-JUL-21
+Hangover update, finished Currency UI. Looking forward to exploring the logic behind it.
