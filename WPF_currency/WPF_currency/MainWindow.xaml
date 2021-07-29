@@ -133,13 +133,13 @@
                     Width="150"
                     Content="Convert"
                     Click="Convert_Click"
-                    Margin="350,0,20,0"
+                    Margin="300,0,20,0"
                     Foreground="White"
-                    FontSize="2O"
+                    FontSize="20"
                     Style="{StaticResource ButtonRound}">
                 <Button.Background>
-                    <LinearGradientBrush StartPoint="0.0"
-                                         EndPoint="1.0">
+                    <LinearGradientBrush StartPoint="0,0"
+                                         EndPoint="1,0">
                         <GradientStop Color="#ec2075"
                                       Offset="0.0" />
                         <GradientStop Color="#f33944"
@@ -156,8 +156,8 @@
                     FontSize="20"
                     Style="{StaticResource ButtonRound}">
                 <Button.Background>
-                    <LinearGradientBrush StartPoint="0.0"
-                                         EndPoint="1.0">
+                    <LinearGradientBrush StartPoint="0,0"
+                                         EndPoint="1,0">
                         <GradientStop Color="#ec2075"
                                       Offset="0.0" />
                         <GradientStop Color="#f33944"

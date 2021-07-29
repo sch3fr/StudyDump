@@ -35,3 +35,5 @@ I think I need to look up some more info about WPF, since I am still confused ab
 It was hard to actually bring myself to code today, but I'm glad I did. I like to keep the streak going.
 ## 28-JUL-21
 Hangover update, finished Currency UI. Looking forward to exploring the logic behind it.
+## 29-JUL-21
+I was feeling kinda sick today, really didn't want to code, but I also don't want to lose the streak, so I did open an IDE and made some changes to the current project.
