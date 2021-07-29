@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Data;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -23,6 +24,27 @@ namespace WPF_currency
         public MainWindow()
         {
             InitializeComponent();
+            BindCurrency();
+        }
+        private void BindCurrency()
+        {
+            DataTable dtCurrencies = new DataTable();
+            dtCurrencies.Columns.Add("Text");
+            dtCurrencies.Columns.Add("Value");
+            
+            dtCurrencies.Rows.Add("-SELCET-", 0);
+            dtCurrencies.Rows.Add("INR", 1);
+            dtCurrencies.Rows.Add("USD", 75);
+            dtCurrencies.Rows.Add("EUR", 85);
+            dtCurrencies.Rows.Add("SAR", 20);
+            dtCurrencies.Rows.Add("POUND", 5);
+            dtCurrencies.Rows.Add("DEM", 43);
+
+            cmbFromCurrency.ItemsSource = dtCurrencies.DefaultView;
+            cmbFromCurrency.DisplayMemberPath = "Text";
+            cmbFromCurrency.SelectedValuePath = "Value";
+            cmbFromCurrency.SelectedIndex = 0;
+
         }
 
         private void txtCurrency_PreviewTextInput(object sender, TextCompositionEventArgs e)
