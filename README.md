@@ -37,3 +37,5 @@ It was hard to actually bring myself to code today, but I'm glad I did. I like t
 Hangover update, finished Currency UI. Looking forward to exploring the logic behind it.
 ## 29-JUL-21
 I was feeling kinda sick today, really didn't want to code, but I also don't want to lose the streak, so I did open an IDE and made some changes to the current project.
+## 30-JUL-21
+No real updates today, just spent a lot of time messing ith xaml, hopefuly I'll be able to use what I learned todsay in Just(To)DoIt.
