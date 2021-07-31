@@ -39,3 +39,5 @@ Hangover update, finished Currency UI. Looking forward to exploring the logic be
 I was feeling kinda sick today, really didn't want to code, but I also don't want to lose the streak, so I did open an IDE and made some changes to the current project.
 ## 30-JUL-21
 No real updates today, just spent a lot of time messing ith xaml, hopefuly I'll be able to use what I learned todsay in Just(To)DoIt.
+## 31-JUL-21
+I feel so dumb for not reading the official documentation. Makes my life so much easier.

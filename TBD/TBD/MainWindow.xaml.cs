@@ -20,6 +20,13 @@ namespace TBD
     /// <summary>
     /// Interakční logika pro MainWindow.xaml
     /// </summary>
+    /// 
+    // IMPORTANT NAMES
+    // ListBox = list
+    // Delete single task button = buttonDelOne
+    // Delete all tasks button = buttonDelAll
+    // Add new task button = buttonAdd
+    
     public partial class MainWindow : Window
     {
         public ObservableCollection<string> allTasks { get; set; }
@@ -30,11 +37,14 @@ namespace TBD
             InitializeComponent();
             this.DataContext = this;
         }
-        private void buttonDelOne_Click(object sender, RoutedEventArgs e)
+        public void buttonDelOne_Click(object sender, RoutedEventArgs e)
         {
+            
+                        
             //allTasks.RemoveAt(0);
 
             //allTasks.Remove(list.SelectedItem);
+            //allTasks.Items.Remove
         }
 
         private void buttonDelAll_Click(object sender, RoutedEventArgs e)
@@ -44,7 +54,7 @@ namespace TBD
 
         private void buttonAdd_Click(object sender, RoutedEventArgs e)
         {
-            //allTasks.Add({ Title = "new task hee"});
+            allTasks.Add("new task hee");
         }
     }
 }
