@@ -40,11 +40,12 @@ namespace TBD
         }
         public void buttonDelOne_Click(object sender, RoutedEventArgs e)
         {
-            foreach (ListBoxItem i in list.SelectedItems) list.Items.Remove(i);
+            
+            //foreach (ListBoxItem i in list.SelectedItems) list.Items.Remove(i);
                         
             //allTasks.RemoveAt(0);
 
-            //allTasks.Remove(list.SelectedItem);
+            allTasks.Remove((string)list.SelectedItem);
             //allTasks.Items.Remove
         }
 
