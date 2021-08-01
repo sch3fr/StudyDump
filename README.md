@@ -41,3 +41,5 @@ I was feeling kinda sick today, really didn't want to code, but I also don't wan
 No real updates today, just spent a lot of time messing ith xaml, hopefuly I'll be able to use what I learned todsay in Just(To)DoIt.
 ## 31-JUL-21
 I feel so dumb for not reading the official documentation. Makes my life so much easier.
+## 1-AUG-21
+I don't know what was I doning wrong yesterday, but today I changed 1 single line of code and the TBD dummy project works as intended!. Sure there are some improvements I'd have to do if I wanted to release it or something, BUT the minimum viable product is there! Now I need to implement it to Just(To)DoIt!
