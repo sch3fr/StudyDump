@@ -56,7 +56,7 @@ namespace TBD
 
         private void buttonAdd_Click(object sender, RoutedEventArgs e)
         {
-            allTasks.Add("new task hee");
+            allTasks.Add(textBox.Text);
         }
     }
 }
