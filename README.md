@@ -43,3 +43,5 @@ No real updates today, just spent a lot of time messing ith xaml, hopefuly I'll 
 I feel so dumb for not reading the official documentation. Makes my life so much easier.
 ## 1-AUG-21
 I don't know what was I doning wrong yesterday, but today I changed 1 single line of code and the TBD dummy project works as intended!. Sure there are some improvements I'd have to do if I wanted to release it or something, BUT the minimum viable product is there! Now I need to implement it to Just(To)DoIt!
+## 2-AUG-21
+Seems like my work yesterday is paying of. While not everything is working yet, it did help me a lot to understand some of the things. What makes me especially happy is that most of my compiler issues are not caused by bad logic, but by forgetting ';' and '}'.
