@@ -49,3 +49,5 @@ Seems like my work yesterday is paying of. While not everything is working yet, 
 Usualy I like to do my programming the first thing in the morning, but today I was busy with family stuff so I'm programming in the evening. It is kinda weird, I'm tired. I did have a coffee, but I feel like I'm just tired FASTER. Anyway I tried to do some more things with JustToDoIt. yeah.
 ### EDIT
 It works. I'm so proud of myself, it is finally working. There are so many things to tweak and make better, but the core of it is working. I'm so happy.
+## 4-AUG-21
+Kinda struggling to find what to code today. Other than that i cleaned up this repo...
