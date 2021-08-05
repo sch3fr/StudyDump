@@ -51,3 +51,6 @@ Usualy I like to do my programming the first thing in the morning, but today I w
 It works. I'm so proud of myself, it is finally working. There are so many things to tweak and make better, but the core of it is working. I'm so happy.
 ## 4-AUG-21
 Kinda struggling to find what to code today. Other than that i cleaned up this repo...
+## 5-AUG-21
+Even though my morning was hellish today, I stil brought myself to code a little and I implemented and then fixed saving fetaure in the Just(To)DoIt app!
+Feelin' good about myself.
