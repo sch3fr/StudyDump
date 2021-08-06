@@ -54,3 +54,5 @@ Kinda struggling to find what to code today. Other than that i cleaned up this r
 ## 5-AUG-21
 Even though my morning was hellish today, I stil brought myself to code a little and I implemented and then fixed saving fetaure in the Just(To)DoIt app!
 Feelin' good about myself.
+## 6-AUG-21
+Today I'm trying to add a feature to the todo app, but it ain't working so far. Not every Sunday can be Easter eh?
