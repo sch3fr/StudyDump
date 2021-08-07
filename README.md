@@ -56,3 +56,5 @@ Even though my morning was hellish today, I stil brought myself to code a little
 Feelin' good about myself.
 ## 6-AUG-21
 Today I'm trying to add a feature to the todo app, but it ain't working so far. Not every Sunday can be Easter eh?
+## 7-AUG-21
+Another day of struggle. I'm trying to change the task of my JTDI app from string to its own class with the name string and finished bool. But when I do that, my saving solution is not working and it messes up the list view. I'm not pushing todays and yesterdays updates, since it is not working yet, and there is a somewhat working version on my JTDI repo right now.
