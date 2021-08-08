@@ -58,3 +58,6 @@ Feelin' good about myself.
 Today I'm trying to add a feature to the todo app, but it ain't working so far. Not every Sunday can be Easter eh?
 ## 7-AUG-21
 Another day of struggle. I'm trying to change the task of my JTDI app from string to its own class with the name string and finished bool. But when I do that, my saving solution is not working and it messes up the list view. I'm not pushing todays and yesterdays updates, since it is not working yet, and there is a somewhat working version on my JTDI repo right now.
+## 8-AUG-21
+It is much easier to code when i actually have a plan, or something exact to work on. That being said, changing the JTDI tasks from string to class is major pain in the butt.</br>
+Anyway I did some research today about Xamarin and MAUI and I came to a conclusion that waiting for new technology is pointless, so I can hop on the Hungie train whenever I feel like it. That being said I don't feel like it today.
