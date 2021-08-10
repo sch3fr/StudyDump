@@ -66,3 +66,5 @@ It was really hard for me to bring myself to do something. I really don't feel l
 ## 10-AUG-21
 I feel like I don't understand classes well enough, so today is mostly research day.
 Also I'm having some troubles with commiting to git. Can't figure out what's going on yet.
+### EDIT
+github is having problems, so I don't have to troubleshoot anything on my side :)
