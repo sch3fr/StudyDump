@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 
 namespace ConsoleTraianing
 {
@@ -6,77 +7,80 @@ namespace ConsoleTraianing
     {
         static void Main(string[] args)
         {
-            //==============================================================================================================================
+            bool quit = false;
+            char choice;
+            Console.WriteLine("Welcome to console demo.\nPress 'I' for input test, 'V' for variables demo, 'S' for strings manipulation demo, 'C' for simple calculator, 'A' for arrays, and 'M' for madlibz.\n Press 'Q' to exit the program.");
 
-            /* 
-            
-            Variables revision
-            
-            string name = "Frank";
-            int age = 20;
+            do
+            {
+                choice = char.ToLower(Console.ReadKey().KeyChar);
+                switch (choice)
+                {
+                    case 'i':
+                        InputTest();
+                        break;
+                    case 'v':
+                        VariablesDemo();
+                        break;
+                    case 's':
+                        StringManipulatoin();
+                        break;
+                    case 'c':
+                        Calculator();
+                        break;
+                    case 'a':
+                        ArrayDemo();
+                        break;
+                    case 'm':
+                        Madlibz();
+                        break;
+                    case 'Q':
+                        quit = true;
+                        break;
+                    default:
+                        Console.WriteLine("Choose on of the option above, please");
+                        break;
+                }
+            } while (quit == false);
 
-            Console.WriteLine("There once was a man named {0}.", name);
-            Console.WriteLine("He was {0} years old.", age);
-            Console.WriteLine("He really liked the name {0}", name);
-            Console.WriteLine("But he didn't lke being {0}", age);
+
+           
+
+            /*
+
+            MadLib Time!
+
+            
 
             */
 
             //==============================================================================================================================
 
             /*
+            
+            Arrays revision
 
-            Strings revision
+            int[] luckyNumbers = { 7, 13, 14, 42, 69, 420};
+            Console.WriteLine(luckyNumbers[4]);
+            luckyNumbers[2] = 36;
+            Console.WriteLine(luckyNumbers[2]);
 
-            string characterName = "Greg";
-            Console.WriteLine(characterName + " rulez \nok?");
-
-            Console.WriteLine("The name " + characterName + " is " + characterName.Length + " characters long.");
-
-            Console.WriteLine(characterName.ToUpper());
-            Console.WriteLine(characterName.Contains("a"));
-
-            Console.WriteLine(characterName[0]);
-            Console.WriteLine(characterName.IndexOf('e'));
-            Console.WriteLine(characterName.IndexOf('b'));
-            Console.WriteLine(characterName.Substring(2) + "g");
+            string[] friends = new string[5];
+            friends[0] = "Matouš";
+            friends[1] = "Ondra";
 
             */
 
             //==============================================================================================================================
 
-            /*
-            
-            Numbers revision
 
-            Console.WriteLine(10 % 3);
-            Console.WriteLine(4 + 2 * 3);
-            Console.WriteLine(5 + 8.1);
-            Console.WriteLine(5 / 2);
-            Console.WriteLine(5.0 / 2.0);
-            Console.WriteLine();
 
-            int num = 7;
-            num++;
-            Console.WriteLine(num);
-            num--;
-            Console.WriteLine(num);
-            Console.WriteLine();
-
-            Console.WriteLine(Math.Abs(-40));
-            Console.WriteLine(Math.Pow(4, 2));
-            Console.WriteLine(Math.Sqrt(81));
-            Console.WriteLine(Math.Max(13, 7));
-            Console.WriteLine(Math.Min(13, 7));
-            Console.WriteLine(Math.Round(5.3));
-            
-            */
-
-            //==============================================================================================================================
-
-            /*
-
-            Input revision
+        }
+        public static void InputTest()
+        {
+            Console.Clear();
+            Console.WriteLine("This is a inputs test.");
+            Thread.Sleep(500);
 
             Console.Write("Hello, I'm a computer. Now, what's your first name? ");
             string firstName = Console.ReadLine();
@@ -84,31 +88,81 @@ namespace ConsoleTraianing
             string lastName = Console.ReadLine();
             Console.Write("Hey {0} {1}, what's up dawg?", firstName, lastName);
 
-            */
+            Ending();
+        }
+        public static void VariablesDemo()
+        {
+            Console.Clear();
+            string name;
+            int age;
+            Console.WriteLine("Welcome to variables demo. You will enter some variables and see how they change things.\nPlease enter a name: ");
+            name = Console.ReadLine();
+            Console.WriteLine("Good. Now enter age in numbers");
+            age = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Terrific. Press any key to see the results.\n");
+            Console.ReadKey();
 
-            //==============================================================================================================================
+            Console.WriteLine("There once was a man named {0}.", name);
+            Console.WriteLine("He was {0} years old.", age);
+            Console.WriteLine("He really liked the name {0}", name);
+            Console.WriteLine("But he didn't lke being {0}", age);
+            Ending();
+        }
+        public static void StringManipulatoin()
+        {
+            Console.Clear();
 
-            /*
+            Console.WriteLine("This is demo of string manipulation.\nPlease enter name of a character.");
+            string characterName = Console.ReadLine();
+            Console.WriteLine(characterName + " rulez, ok?\n\nPress any key to continue.");
+            Console.ReadKey();
+            Console.WriteLine("The name " + characterName + " is " + characterName.Length + " characters long");
+            Thread.Sleep(500);
+            Console.WriteLine("The name in uppercase looks like this: " + characterName.ToUpper());
+            Thread.Sleep(500);
+            Console.WriteLine("Does the characters name include the letter 'a'? : " + characterName.Contains("a"));
+            if (characterName.Contains("a"))
+            {
+                Thread.Sleep(500);
+                Console.WriteLine("The index of letter 'a' is : " + characterName.IndexOf('a'));
+            }
+            Thread.Sleep(500);
+            Console.WriteLine("The first letter (with index number 0) is : " + characterName[0]);
+            Thread.Sleep(500);
+            Console.WriteLine("Honeslty I forgot what this does. " + characterName.Substring(2) + "g");
+            Ending();
+        }
+        public static void Calculator()
+        {
+            Console.Clear();
             
-            Simple calculator
-
             Console.WriteLine("Please enter a number.");
             double num1 = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Now please enter another number.");
             double num2 = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("The sum is " + (num1+num2));
+            Console.WriteLine("The sum is " + (num1 + num2));
             Console.WriteLine("The difference is " + (num1 - num2));
             Console.WriteLine("The product is " + (num1 * num2));
             Console.WriteLine("The division is " + (num1 / num2));
+            Console.WriteLine("Reminder is " + (num1 % num2));
+            Console.WriteLine("Absolute value of both numbers is {0} and {1}", Math.Abs(num1), Math.Abs(num2));
+            Console.WriteLine("Numbers powered are " + Math.Pow(num1, num2));
+            Console.WriteLine("The square root of the first number is " + Math.Sqrt(num1));
+            Console.WriteLine("The higher number is {0} and the lover number is {1}", Math.Max(num1, num2), Math.Min(num1, num2));
+            Console.WriteLine("The first number rounded is " + Math.Round(num1));
 
-            */
+            Console.WriteLine("Using int++, the first number is {0} and the second number is now {1}", num1++, num2++);
+            Console.WriteLine("Using int--, the first number is {0} and the second number is now {1}", num1--, num2--);
 
-            //==============================================================================================================================
+            Ending();
+        }
+        public static void ArrayDemo()
+        {
 
-            /*
-
-            MadLib Time!
-
+        }
+        public static void Madlibz()
+        {
+            Console.Clear();
             Console.WriteLine("Hey, let's play a Mad Lips game! I'm gonna need some words first though.");
 
             Console.Write("Enter an adjective ");
@@ -165,29 +219,11 @@ namespace ConsoleTraianing
             Console.WriteLine("Some kids like {0} pizza the best, but my favourite is the {1} pizza.", food1, food2);
             Console.WriteLine("If I could, I would eat pizza {0} times a day.", number2);
 
-            */
-
-            //==============================================================================================================================
-
-            /*
-            
-            Arrays revision
-
-            int[] luckyNumbers = { 7, 13, 14, 42, 69, 420};
-            Console.WriteLine(luckyNumbers[4]);
-            luckyNumbers[2] = 36;
-            Console.WriteLine(luckyNumbers[2]);
-
-            string[] friends = new string[5];
-            friends[0] = "Matouš";
-            friends[1] = "Ondra";
-
-            */
-
-            //==============================================================================================================================
-
-
-
+            Ending();
+        }
+        public static void Ending()
+        {
+            Console.WriteLine("\n Please choose antoher activity.\n'I' - input test, 'V' - variables demo, 'S' - strings manipulation demo, 'C' - simple calculator, 'A' - arrays, and 'M' - madlibz.\n Press 'Q' to exit the program.");
         }
     }
 }
