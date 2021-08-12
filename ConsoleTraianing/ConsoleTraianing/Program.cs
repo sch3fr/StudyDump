@@ -7,14 +7,14 @@ namespace ConsoleTraianing
     {
         static void Main(string[] args)
         {
-            bool quit = false;
+            bool quit = false; //switch that turns off the do while loop when changed
             char choice;
-            Console.WriteLine("Welcome to console demo.\nPress 'I' for input test, 'V' for variables demo, 'S' for strings manipulation demo, 'C' for simple calculator, 'A' for arrays, and 'M' for madlibz.\n Press 'Q' to exit the program.");
+            Console.WriteLine("Welcome to console demo.\nPress 'I' for input test,\n'V' for variables demo,\n'S' for strings manipulation demo,\n'C' for simple calculator,\n'A' for arrays,\nand 'M' for madlibz.\n\nPress 'Q' to exit the program.");
 
-            do
+            do //do while loop is for the menu to be infinitely usable. The loop ends when switch quit changes by pressing 'Q'
             {
                 choice = char.ToLower(Console.ReadKey().KeyChar);
-                switch (choice)
+                switch (choice) //to make things nicer every demo is in its own class
                 {
                     case 'i':
                         InputTest();
@@ -66,13 +66,17 @@ namespace ConsoleTraianing
             name = Console.ReadLine();
             Console.WriteLine("Good. Now enter age in numbers");
             age = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Terrific. Press any key to see the results.\n");
-            Console.ReadKey();
+            Console.WriteLine("Terrific.\n");
+            Thread.Sleep(500);
 
             Console.WriteLine("There once was a man named {0}.", name);
+            Thread.Sleep(500);
             Console.WriteLine("He was {0} years old.", age);
+            Thread.Sleep(500);
             Console.WriteLine("He really liked the name {0}", name);
-            Console.WriteLine("But he didn't lke being {0}", age);
+            Thread.Sleep(500);
+            Console.WriteLine("But he didn't like being {0}", age);
+            Thread.Sleep(500);
             Ending();
         }
         public static void StringManipulatoin()
@@ -96,7 +100,7 @@ namespace ConsoleTraianing
             Thread.Sleep(500);
             Console.WriteLine("The first letter (with index number 0) is : " + characterName[0]);
             Thread.Sleep(500);
-            Console.WriteLine("Honeslty I forgot what this does. " + characterName.Substring(2) + "g");
+            Console.WriteLine("Now watch me f up the name by deleting the first two characters and adding 'g' at the end. " + characterName.Substring(2) + "g");
             Ending();
         }
         public static void Calculator()
@@ -192,7 +196,7 @@ namespace ConsoleTraianing
         }
         public static void Ending()
         {
-            Console.WriteLine("\n\nPlease choose antoher activity.\n'I' - input test, 'V' - variables demo, 'S' - strings manipulation demo, 'C' - simple calculator, 'A' - arrays, and 'M' - madlibz.\n Press 'Q' to exit the program.");
+            Console.WriteLine("\n\nPlease choose antoher activity.\n'I' - input test,\n'V' - variables demo,\n'S' - strings manipulation demo,\n'C' - simple calculator,\n'A' - arrays,\n'M' - madlibz.\n\nPress 'Q' to exit the program.");
         }
     }
 }
