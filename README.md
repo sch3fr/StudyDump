@@ -63,9 +63,11 @@ It is much easier to code when i actually have a plan, or something exact to wor
 Anyway I did some research today about Xamarin and MAUI and I came to a conclusion that waiting for new technology is pointless, so I can hop on the Hungie train whenever I feel like it. That being said I don't feel like it today.
 ## 9-AUG-21
 It was really hard for me to bring myself to do something. I really don't feel like working on the JTDI at the moment. I still want to finish it, but today, I felt more like reviving Hungie and cleaning the repo. I know I messed something up last time I poked around, but I had no idea what most of the files were. Anyway I deleted everything there and started new project. I ca understand the XAML just fine now. It shiuldn't be that bad.
-##10-AUG-21
+## 10-AUG-21
 I feel like I don't understand classes well enough, so today is mostly research day. Also I'm having some troubles with commiting to git. Can't figure out what's going on yet.
-###EDIT
+### EDIT
 github is having problems, so I don't have to troubleshoot anything on my side :)
-##11-AUG-21
+## 11-AUG-21
 After whole day of watching the Twin Peaks I decided to change things a bit in the console training project. It's not done, but I was having fun today :)
+## 12-AUG-21
+It's been too long since the last time I had a nice coding session in the morning. I should get back into the habbit of coding first thing in the morning. Anyway today I'm playing with console again.

@@ -34,7 +34,7 @@ namespace ConsoleTraianing
                     case 'm':
                         Madlibz();
                         break;
-                    case 'Q':
+                    case 'q':
                         quit = true;
                         break;
                     default:
@@ -42,39 +42,6 @@ namespace ConsoleTraianing
                         break;
                 }
             } while (quit == false);
-
-
-           
-
-            /*
-
-            MadLib Time!
-
-            
-
-            */
-
-            //==============================================================================================================================
-
-            /*
-            
-            Arrays revision
-
-            int[] luckyNumbers = { 7, 13, 14, 42, 69, 420};
-            Console.WriteLine(luckyNumbers[4]);
-            luckyNumbers[2] = 36;
-            Console.WriteLine(luckyNumbers[2]);
-
-            string[] friends = new string[5];
-            friends[0] = "Matouš";
-            friends[1] = "Ondra";
-
-            */
-
-            //==============================================================================================================================
-
-
-
         }
         public static void InputTest()
         {
@@ -150,15 +117,17 @@ namespace ConsoleTraianing
             Console.WriteLine("The square root of the first number is " + Math.Sqrt(num1));
             Console.WriteLine("The higher number is {0} and the lover number is {1}", Math.Max(num1, num2), Math.Min(num1, num2));
             Console.WriteLine("The first number rounded is " + Math.Round(num1));
-
-            Console.WriteLine("Using int++, the first number is {0} and the second number is now {1}", num1++, num2++);
-            Console.WriteLine("Using int--, the first number is {0} and the second number is now {1}", num1--, num2--);
-
             Ending();
         }
         public static void ArrayDemo()
         {
-
+            Console.Clear();
+            int[] luckyNumbers = { 7, 13, 14, 42, 56, 69, 420 };
+            Console.WriteLine("Enter a number between 0 - 6 and I'll tell you what's your true lucky number");
+            int index;
+            index = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Your lucky number is: " + luckyNumbers[index]);
+            Ending();
         }
         public static void Madlibz()
         {
@@ -223,7 +192,7 @@ namespace ConsoleTraianing
         }
         public static void Ending()
         {
-            Console.WriteLine("\n Please choose antoher activity.\n'I' - input test, 'V' - variables demo, 'S' - strings manipulation demo, 'C' - simple calculator, 'A' - arrays, and 'M' - madlibz.\n Press 'Q' to exit the program.");
+            Console.WriteLine("\n\nPlease choose antoher activity.\n'I' - input test, 'V' - variables demo, 'S' - strings manipulation demo, 'C' - simple calculator, 'A' - arrays, and 'M' - madlibz.\n Press 'Q' to exit the program.");
         }
     }
 }
