@@ -71,3 +71,5 @@ github is having problems, so I don't have to troubleshoot anything on my side :
 After whole day of watching the Twin Peaks I decided to change things a bit in the console training project. It's not done, but I was having fun today :)
 ## 12-AUG-21
 It's been too long since the last time I had a nice coding session in the morning. I should get back into the habbit of coding first thing in the morning. Anyway today I'm playing with console again.
+## 13-AUG-21
+I tried handling expectaition in the CT1. I found a simple yet elegant solution for one of the problems I faced today. The best kind of solutions.

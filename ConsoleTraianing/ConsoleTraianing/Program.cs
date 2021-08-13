@@ -108,9 +108,22 @@ namespace ConsoleTraianing
             Console.Clear();
             
             Console.WriteLine("Please enter a number.");
-            double num1 = Convert.ToDouble(Console.ReadLine());
+            double num1;
+
+            while (!double.TryParse(Console.ReadLine(), out num1))
+            {
+                Console.WriteLine("Please enter a number :|");
+            }
+
+            
             Console.WriteLine("Now please enter another number.");
-            double num2 = Convert.ToDouble(Console.ReadLine());
+            double num2;
+
+            while (!double.TryParse(Console.ReadLine(), out num2))
+            {
+                Console.WriteLine("Please enter a number :|");
+            }
+
             Console.WriteLine("The sum is " + (num1 + num2));
             Console.WriteLine("The difference is " + (num1 - num2));
             Console.WriteLine("The product is " + (num1 * num2));
@@ -129,7 +142,12 @@ namespace ConsoleTraianing
             int[] luckyNumbers = { 7, 13, 14, 42, 56, 69, 420 };
             Console.WriteLine("Enter a number between 0 - 6 and I'll tell you what's your true lucky number");
             int index;
-            index = Convert.ToInt32(Console.ReadLine());
+
+            while (!int.TryParse(Console.ReadLine(), out index))
+            {
+                Console.WriteLine("Please enter a number :|");
+            }
+
             Console.WriteLine("Your lucky number is: " + luckyNumbers[index]);
             Ending();
         }
