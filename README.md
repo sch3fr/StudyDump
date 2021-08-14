@@ -73,3 +73,5 @@ After whole day of watching the Twin Peaks I decided to change things a bit in t
 It's been too long since the last time I had a nice coding session in the morning. I should get back into the habbit of coding first thing in the morning. Anyway today I'm playing with console again.
 ## 13-AUG-21
 I tried handling expectaition in the CT1. I found a simple yet elegant solution for one of the problems I faced today. The best kind of solutions.
+## 14-AUG-21
+Started a new xamarin project in this repo. Just to get myself comfortable with xamarin. We'll see how it goes.
