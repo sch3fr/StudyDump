@@ -75,3 +75,5 @@ It's been too long since the last time I had a nice coding session in the mornin
 I tried handling expectaition in the CT1. I found a simple yet elegant solution for one of the problems I faced today. The best kind of solutions.
 ## 14-AUG-21
 Started a new xamarin project in this repo. Just to get myself comfortable with xamarin. We'll see how it goes.
+## 15-AUG-21
+Today I found great Xamarin explanation youtube series. I'm really stoked that after an hour I'm much more familiar with xamarin forms than I've been ever since I started poking around with it in June.
