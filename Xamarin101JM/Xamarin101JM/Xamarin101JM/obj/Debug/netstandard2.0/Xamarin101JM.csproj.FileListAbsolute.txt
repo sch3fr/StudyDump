@@ -6,11 +6,6 @@ C:\Users\sch3f\source\repos\StudyDump\Xamarin101JM\Xamarin101JM\Xamarin101JM\obj
 C:\Users\sch3f\source\repos\StudyDump\Xamarin101JM\Xamarin101JM\Xamarin101JM\obj\Debug\netstandard2.0\Xamarin101JM.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\sch3f\source\repos\StudyDump\Xamarin101JM\Xamarin101JM\Xamarin101JM\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\sch3f\source\repos\StudyDump\Xamarin101JM\Xamarin101JM\Xamarin101JM\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
-C:\Users\sch3f\source\repos\StudyDump\Xamarin101JM\Xamarin101JM\Xamarin101JM\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
-C:\Users\sch3f\source\repos\StudyDump\Xamarin101JM\Xamarin101JM\Xamarin101JM\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
-C:\Users\sch3f\source\repos\StudyDump\Xamarin101JM\Xamarin101JM\Xamarin101JM\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
-C:\Users\sch3f\source\repos\StudyDump\Xamarin101JM\Xamarin101JM\Xamarin101JM\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
-C:\Users\sch3f\source\repos\StudyDump\Xamarin101JM\Xamarin101JM\Xamarin101JM\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
 C:\Users\sch3f\source\repos\StudyDump\Xamarin101JM\Xamarin101JM\Xamarin101JM\obj\Debug\netstandard2.0\Xamarin101JM.AssemblyInfoInputs.cache
 C:\Users\sch3f\source\repos\StudyDump\Xamarin101JM\Xamarin101JM\Xamarin101JM\obj\Debug\netstandard2.0\Xamarin101JM.AssemblyInfo.cs
 C:\Users\sch3f\source\repos\StudyDump\Xamarin101JM\Xamarin101JM\Xamarin101JM\obj\Debug\netstandard2.0\Xamarin101JM.csproj.CoreCompileInputs.cache
@@ -18,3 +13,4 @@ C:\Users\sch3f\source\repos\StudyDump\Xamarin101JM\Xamarin101JM\Xamarin101JM\obj
 C:\Users\sch3f\source\repos\StudyDump\Xamarin101JM\Xamarin101JM\Xamarin101JM\obj\Debug\netstandard2.0\Xamarin101JM.dll
 C:\Users\sch3f\source\repos\StudyDump\Xamarin101JM\Xamarin101JM\Xamarin101JM\obj\Debug\netstandard2.0\ref\Xamarin101JM.dll
 C:\Users\sch3f\source\repos\StudyDump\Xamarin101JM\Xamarin101JM\Xamarin101JM\obj\Debug\netstandard2.0\Xamarin101JM.pdb
+C:\Users\sch3f\source\repos\StudyDump\Xamarin101JM\Xamarin101JM\Xamarin101JM\obj\Debug\netstandard2.0\Views\CoffeeEquipmentPage.xaml.g.cs

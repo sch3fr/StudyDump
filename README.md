@@ -77,3 +77,5 @@ I tried handling expectaition in the CT1. I found a simple yet elegant solution 
 Started a new xamarin project in this repo. Just to get myself comfortable with xamarin. We'll see how it goes.
 ## 15-AUG-21
 Today I found great Xamarin explanation youtube series. I'm really stoked that after an hour I'm much more familiar with xamarin forms than I've been ever since I started poking around with it in June.
+## 16-AUG-21
+Another day of following tutorials. Hope to finish 'em soon so I can understand Xamarin.forms better and start developing my first android app!
