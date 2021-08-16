@@ -4,9 +4,13 @@
              x:Class="Xamarin101JM.Views.CoffeeEquipmentPage">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
+            <Label Text="Push the button!"
+                x:Name="LabelCount"
+                FontSize="Large"
                 HorizontalOptions="CenterAndExpand" />
+            <Button x:Name="ButtonClick"
+                    Clicked="ButtonClick_Clicked"
+                Text="Click me :)" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
