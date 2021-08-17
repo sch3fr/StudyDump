@@ -16,7 +16,6 @@ namespace Xamarin101JM.Views
         public CoffeeEquipmentPage()
         {
             InitializeComponent();
-            BindingContext = new CoffeeEquipmentViewModel();
         }
         
     }
