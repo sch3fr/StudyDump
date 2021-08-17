@@ -3,9 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using System.Windows.Input;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using Xamarin101JM.ViewModels;
 
 namespace Xamarin101JM.Views
 {
@@ -14,13 +15,9 @@ namespace Xamarin101JM.Views
     {
         public CoffeeEquipmentPage()
         {
-            InitializeComponent();            
+            InitializeComponent();
+            BindingContext = new CoffeeEquipmentViewModel();
         }
-        int count = 0;
-        private void ButtonClick_Clicked(object sender, EventArgs e)
-        {
-            count++;
-            LabelCount.Text = $"You clicked {count} time(s)";
-        }
+        
     }
 }
