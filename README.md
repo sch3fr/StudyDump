@@ -79,3 +79,5 @@ Started a new xamarin project in this repo. Just to get myself comfortable with 
 Today I found great Xamarin explanation youtube series. I'm really stoked that after an hour I'm much more familiar with xamarin forms than I've been ever since I started poking around with it in June.
 ## 16-AUG-21
 Another day of following tutorials. Hope to finish 'em soon so I can understand Xamarin.forms better and start developing my first android app!
+## 17-AUG-21
+Finally started learning about MVVM, after hearing about it so much in everything related to android app development.
