@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "gfImla8Jy0iyljfOxGZ4ideZoICZ3PiXBGyieBZ550J5YZm6qqvmHzxZDQcsej8mfbmM4VLLSL8A7HbD2lq0pQ==",
+  "dgSpecHash": "mSPuDXwkC97TFMx9Nm/S8NlQtw5LL3vvoBJfy6rgKMa+FYqvdk4sLstlpD0+f+lk3mwe01PJ1W8nYga7ylwDGQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\sch3f\\source\\repos\\StudyDump\\Xamarin101JM\\Xamarin101JM\\Xamarin101JM.Android\\Xamarin101JM.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\sch3f\\.nuget\\packages\\refractored.mvvmhelpers\\1.6.2\\refractored.mvvmhelpers.1.6.2.nupkg.sha512",
     "C:\\Users\\sch3f\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\sch3f\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
     "C:\\Users\\sch3f\\.nuget\\packages\\xamarin.androidx.activity\\1.2.0.1\\xamarin.androidx.activity.1.2.0.1.nupkg.sha512",
     "C:\\Users\\sch3f\\.nuget\\packages\\xamarin.androidx.annotation\\1.1.0.9\\xamarin.androidx.annotation.1.1.0.9.nupkg.sha512",
     "C:\\Users\\sch3f\\.nuget\\packages\\xamarin.androidx.annotation.experimental\\1.0.0.9\\xamarin.androidx.annotation.experimental.1.0.0.9.nupkg.sha512",

@@ -1,16 +1,19 @@
-﻿using System;
+﻿using MvvmHelpers;
+using MvvmHelpers.Commands;
+using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Windows.Input;
-using Xamarin.Forms;
+
 
 namespace Xamarin101JM.ViewModels
 {
-    public class CoffeeEquipmentViewModel : BindableObject
+    public class CoffeeEquipmentViewModel : BaseViewModel
     {
         public CoffeeEquipmentViewModel()
         {
             IncreaseCount = new Command(OnIncrease);
+            Title = "Coffee Equipment";
         }
         public ICommand IncreaseCount { get; set; }
         int count = 0;
@@ -18,13 +21,7 @@ namespace Xamarin101JM.ViewModels
         public string CountDisplay
         {
             get => countDisplay;
-            set
-            {
-                if (value == countDisplay)
-                    return;
-                countDisplay = value;
-                OnPropertyChanged();
-            }
+            set => SetProperty(ref countDisplay, value);
         }
         void OnIncrease()
         {

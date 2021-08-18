@@ -81,3 +81,5 @@ Today I found great Xamarin explanation youtube series. I'm really stoked that a
 Another day of following tutorials. Hope to finish 'em soon so I can understand Xamarin.forms better and start developing my first android app!
 ## 17-AUG-21
 Finally started learning about MVVM, after hearing about it so much in everything related to android app development.
+## 18-AUG-21
+I'm so dumb I added a dot to a namespace thinking it would be like a version idicator, but in doing so I managed to destroy my whole namespace and solution structure. Congratulations, I played myself.

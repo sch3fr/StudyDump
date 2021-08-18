@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "/IlB4/3UAGPjPPnLMpsEq+0wbDenKb6lYqPpmy/gSx9sVW4v/4a0gPI1/xJkEBWzahb7He9bfGhfzRQso1Kyfw==",
+  "dgSpecHash": "AbAGf9JmkAZ31to7tkRfC+awqki5SXmW2lNr8l3D+in5RzyYQI6SFD6AIPEUeqI27xAMJckpTLQ86ZXTKQj36A==",
   "success": true,
   "projectFilePath": "C:\\Users\\sch3f\\source\\repos\\StudyDump\\Xamarin101JM\\Xamarin101JM\\Xamarin101JM\\Xamarin101JM.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sch3f\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\sch3f\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\sch3f\\.nuget\\packages\\refractored.mvvmhelpers\\1.6.2\\refractored.mvvmhelpers.1.6.2.nupkg.sha512",
     "C:\\Users\\sch3f\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\sch3f\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
     "C:\\Users\\sch3f\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
     "C:\\Users\\sch3f\\.nuget\\packages\\xamarin.forms\\5.0.0.2083\\xamarin.forms.5.0.0.2083.nupkg.sha512"
   ],
