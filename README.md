@@ -83,3 +83,7 @@ Another day of following tutorials. Hope to finish 'em soon so I can understand 
 Finally started learning about MVVM, after hearing about it so much in everything related to android app development.
 ## 18-AUG-21
 I'm so dumb I added a dot to a namespace thinking it would be like a version idicator, but in doing so I managed to destroy my whole namespace and solution structure. Congratulations, I played myself.
+## 19-AUG-21
+Kinda getting lost with the tutorial I liked so much before. Dude skipped ahead so much I have no Idea what's going on.
+## 20-AUG-21
+Geting back to JTDI, though I made no progress so far.
