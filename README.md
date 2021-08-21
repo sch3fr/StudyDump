@@ -87,3 +87,5 @@ I'm so dumb I added a dot to a namespace thinking it would be like a version idi
 Kinda getting lost with the tutorial I liked so much before. Dude skipped ahead so much I have no Idea what's going on.
 ## 20-AUG-21
 Geting back to JTDI, though I made no progress so far.
+## 21-AUG-21
+feeling like smashing my head against the wall. absolutely no progress. Stuck on all fronts :(
