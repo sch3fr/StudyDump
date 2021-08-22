@@ -89,3 +89,5 @@ Kinda getting lost with the tutorial I liked so much before. Dude skipped ahead 
 Geting back to JTDI, though I made no progress so far.
 ## 21-AUG-21
 feeling like smashing my head against the wall. absolutely no progress. Stuck on all fronts :(
+## 22-AUG-21
+I think I understand all of the things I learned in my Programming 101 class well, however there are so many things I still don't understand that I think are important. Like using classes, constructors, we barely touched methods, debugging etc. So studying this is on the menu today and the next few days.
