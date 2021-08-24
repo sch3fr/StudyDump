@@ -91,3 +91,7 @@ Geting back to JTDI, though I made no progress so far.
 feeling like smashing my head against the wall. absolutely no progress. Stuck on all fronts :(
 ## 22-AUG-21
 I think I understand all of the things I learned in my Programming 101 class well, however there are so many things I still don't understand that I think are important. Like using classes, constructors, we barely touched methods, debugging etc. So studying this is on the menu today and the next few days.
+## 23-AUG-21
+Didn't get to code untill late in the evening. I didn't feel like much so I started a new project - physic calculator. It's more of a joke than a serious project, but it'd be nice to do it.
+## 24-AUG-21
+Life happens, however I was able to write a few lines of code tonight.
