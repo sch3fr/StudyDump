@@ -95,3 +95,5 @@ I think I understand all of the things I learned in my Programming 101 class wel
 Didn't get to code untill late in the evening. I didn't feel like much so I started a new project - physic calculator. It's more of a joke than a serious project, but it'd be nice to do it.
 ## 24-AUG-21
 Life happens, however I was able to write a few lines of code tonight.
+## 25-AUG-21
+Todays progress, even if not much, feels great. However, the physics calulator is much more complex project than I anticipated. I'm reaching the treshold of it becoming a large pile of spaghetti code. I might need to restructuralize it sooner than later.
