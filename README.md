@@ -97,3 +97,5 @@ Didn't get to code untill late in the evening. I didn't feel like much so I star
 Life happens, however I was able to write a few lines of code tonight.
 ## 25-AUG-21
 Todays progress, even if not much, feels great. However, the physics calulator is much more complex project than I anticipated. I'm reaching the treshold of it becoming a large pile of spaghetti code. I might need to restructuralize it sooner than later.
+## 26-AUG-21
+I changed the prjext structure, thoug I still feel like I'm over engineering things. Anyway what's important is that I'm really having a blast building this calculator.
