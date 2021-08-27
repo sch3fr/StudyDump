@@ -99,3 +99,6 @@ Life happens, however I was able to write a few lines of code tonight.
 Todays progress, even if not much, feels great. However, the physics calulator is much more complex project than I anticipated. I'm reaching the treshold of it becoming a large pile of spaghetti code. I might need to restructuralize it sooner than later.
 ## 26-AUG-21
 I changed the prjext structure, thoug I still feel like I'm over engineering things. Anyway what's important is that I'm really having a blast building this calculator.
+## 27-AUG-21
+Can't figure out one do-while loop *insert thonking emoji here*. Other than that I have to do some manual, not really interesting things before I can move onto something more fun, but I can't bring myself to do it fast. I know exactly what I have to do, but it's not even remotely as exciting as figuring othesr stuff out.
+Once I'll start building UI for my calculator, I might try WinUI.
