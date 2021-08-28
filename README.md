@@ -102,3 +102,5 @@ I changed the prjext structure, thoug I still feel like I'm over engineering thi
 ## 27-AUG-21
 Can't figure out one do-while loop *insert thonking emoji here*. Other than that I have to do some manual, not really interesting things before I can move onto something more fun, but I can't bring myself to do it fast. I know exactly what I have to do, but it's not even remotely as exciting as figuring othesr stuff out.
 Once I'll start building UI for my calculator, I might try WinUI.
+## 28-AUG-21
+I feel so dumb for yesterday. The mistake I made in the loop yesterday was using '||' instead of '&&'.<br/>Anyway, I feel super tired today, maybe kinda sick. I think I have a new approach for the calculator. Instead of making special function for every type of problem, I'll make fewver functions, so I can repurpose code of problems with similar solutions, for examle when the solution is a=b*c, then I can jast pass the numbers. However there is some case specific test that I have to take care of, and right now I feel too drowsy to figure it out.
