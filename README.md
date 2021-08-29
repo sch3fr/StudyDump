@@ -106,3 +106,5 @@ Once I'll start building UI for my calculator, I might try WinUI.
 I feel so dumb for yesterday. The mistake I made in the loop yesterday was using '||' instead of '&&'.<br/>Anyway, I feel super tired today, maybe kinda sick. I think I have a new approach for the calculator. Instead of making special function for every type of problem, I'll make fewver functions, so I can repurpose code of problems with similar solutions, for examle when the solution is a=b*c, then I can jast pass the numbers. However there is some case specific test that I have to take care of, and right now I feel too drowsy to figure it out.
 ## 29-AUG-21
 I'm trying a different approach with the calculator, but I still repeat chunks of code. That's not right, it has to be simplyfiable, but I don't know how yet.
+### EDIT
+I think I figured it out. I feel super smart, this is what it's all about! I still have things to improve, but it feels awesome!
