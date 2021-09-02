@@ -106,3 +106,10 @@ I'm trying a different approach with the calculator, but I still repeat chunks o
 I think I figured it out. I feel super smart, this is what it's all about! I still have things to improve, but it feels awesome!
 ## 30-AUG-21
 I'm brainstorming some soluitions to a problem I have with the calculator. It may save some lines and reduce complexity by one while-do loop, but the conditions seems far too complex. Though now I can't come up with any elegant solution like yesterday. That was some big brain stuff, I'm still proud of it. Saving a hundert and potetially a few huderts more lines of code by writing methods with hard coded parameters for different uses. It feels great thinking about it, I wish I had code literrate friends so I could boast about it heh.
+## 31-AUG-21
+Woaah, we're halfway there, woaah, livin' on a prayer...<br/>
+Day 50 baby.
+## 1-SEP-21
+Just a small update to the calculator. I was busy most of the day, though I'm glad I still managed to code today, even if it was not much.
+## 2-SEP-21
+Diving right back into the WPF! I might try to learn WinUI 3 or whaterver it's called later, but now I'm excited for this.
