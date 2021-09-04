@@ -113,3 +113,7 @@ Day 50 baby.
 Just a small update to the calculator. I was busy most of the day, though I'm glad I still managed to code today, even if it was not much.
 ## 2-SEP-21
 Diving right back into the WPF! I might try to learn WinUI 3 or whaterver it's called later, but now I'm excited for this.
+## 3-SEP-21
+working on console calculator again.
+## 4-SEP-21
+I feel like I'm jumping from one project to another too much. But at the same time, I find it kinda hard to stay motivated these days. That's why I have only one contribution these past days.
