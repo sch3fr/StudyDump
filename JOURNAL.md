@@ -117,3 +117,7 @@ Diving right back into the WPF! I might try to learn WinUI 3 or whaterver it's c
 working on console calculator again.
 ## 4-SEP-21
 I feel like I'm jumping from one project to another too much. But at the same time, I find it kinda hard to stay motivated these days. That's why I have only one contribution these past days.
+## 5-SEP-21
+Just realized that to be able to make physic calculator I have to understand physics first. Bummer.
+## 6-SEP-21
+My first release on GitHub! Really proud of myself!
