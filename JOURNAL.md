@@ -120,4 +120,4 @@ I feel like I'm jumping from one project to another too much. But at the same ti
 ## 5-SEP-21
 Just realized that to be able to make physic calculator I have to understand physics first. Bummer.
 ## 6-SEP-21
-My first release on GitHub! Really proud of myself!
+My first release on GitHub! Really proud of myself!<br/>Though I don't know how to release single .exe yet, I had to upload it with some other files that I don't understand yet.
