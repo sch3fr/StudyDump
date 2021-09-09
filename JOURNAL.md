@@ -121,3 +121,9 @@ I feel like I'm jumping from one project to another too much. But at the same ti
 Just realized that to be able to make physic calculator I have to understand physics first. Bummer.
 ## 6-SEP-21
 My first release on GitHub! Really proud of myself!<br/>Though I don't know how to release single .exe yet, I had to upload it with some other files that I don't understand yet.
+## 7-SEP-21
+Kinda hard to code again. I think I need to finally start finishing my projects, instead of startig new ones every time I lose my excitement.
+## 8-SEP-21
+Not much done today, but I'm glad I opened the IDE and wrote some lines.
+## 9-SEP-21
+I got home very late, I hope I can get some quality work done tody.
