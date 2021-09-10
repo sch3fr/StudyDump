@@ -127,3 +127,5 @@ Kinda hard to code again. I think I need to finally start finishing my projects,
 Not much done today, but I'm glad I opened the IDE and wrote some lines.
 ## 9-SEP-21
 I got home very late, I hope I can get some quality work done tody.
+## 10-SEP-21
+Sudden wave of motivation made me finish the str part of the calculator. If only it could last longer. These days I find myself doing the absolute minimum just to be able to say "hey look ma, I finished the challenge".
