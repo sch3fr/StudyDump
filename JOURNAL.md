@@ -131,3 +131,7 @@ I got home very late, I hope I can get some quality work done tody.
 Day 60!Sudden wave of motivation made me finish the str part of the calculator. If only it could last longer. These days I find myself doing the absolute minimum just to be able to say "hey look ma, I finished the challenge".
 ## 11-SEP-21
 I thing I caught a cold. I was useless most of the day. I did something in the evening, though not much.
+## 12-SEP-21
+Not sure how I managed it, but I did quite a lot of work compared to last few days.
+## 13-SEP-21
+I need to get more disciplined. It is super hard for me to code these days. I am not as excited as I was, but I need to force myself to prevail.
