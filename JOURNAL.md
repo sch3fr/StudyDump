@@ -135,3 +135,8 @@ I thing I caught a cold. I was useless most of the day. I did something in the e
 Not sure how I managed it, but I did quite a lot of work compared to last few days.
 ## 13-SEP-21
 I need to get more disciplined. It is super hard for me to code these days. I am not as excited as I was, but I need to force myself to prevail.
+## 14-SEP-21
+I've done more thant I thought I would today. Also I've run my code through compiller in quite a long time. I had to fix quite a load of mistakes.
+## 15-SEP-21
+I'm drunk and tired and glad I wrote some code today. Now I'm about to hit the bed.<br/>
+I'm really interested in LaTeX. I think it would be great for note taking in my upcoming classes. Not sure if it is related to coding, but whatever.
