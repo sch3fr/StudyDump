@@ -140,3 +140,5 @@ I've done more thant I thought I would today. Also I've run my code through comp
 ## 15-SEP-21
 I'm drunk and tired and glad I wrote some code today. Now I'm about to hit the bed.<br/>
 I'm really interested in LaTeX. I think it would be great for note taking in my upcoming classes. Not sure if it is related to coding, but whatever.
+## 16-SEP-21
+I'm really tired these days, no idea why. While I don't think todays contributions are gonna be somewhat groundbreaking, I hope to write at least a frew lines of code.
