@@ -142,3 +142,5 @@ I'm drunk and tired and glad I wrote some code today. Now I'm about to hit the b
 I'm really interested in LaTeX. I think it would be great for note taking in my upcoming classes. Not sure if it is related to coding, but whatever.
 ## 16-SEP-21
 I'm really tired these days, no idea why. While I don't think todays contributions are gonna be somewhat groundbreaking, I hope to write at least a frew lines of code.
+## 17-SEP-21
+I feel like quitting today. But I have come so far, it would be a shame to quit now. I just need to push through these days, and I hope things will get better again soon.
