@@ -150,3 +150,9 @@ Pro tip: Whiskey does not stimulate brain for coding.
 Day #69. Nice
 ## 20-SEP-21
 Why is doing literally anything so hard these days? I find it extremely hard to code. Or well not to code, but to make time for coding.
+## 21-SEP-21
+I'm sick and tired.
+## 22-SEP-21
+Still sick. Hope to get better tommorow.
+## 23-SEP-21
+I feel like I'm doing this wrong. Admitedly, I was sick past few days, so I did bare minimum to progress in this challenge, but now it feels like every day I just add one very small and easy to implement part of code to my physic calculator. I am not pushing myslef.
