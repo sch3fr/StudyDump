@@ -158,3 +158,7 @@ Still sick. Hope to get better tommorow.
 I feel like I'm doing this wrong. Admitedly, I was sick past few days, so I did bare minimum to progress in this challenge, but now it feels like every day I just add one very small and easy to implement part of code to my physic calculator. I am not pushing myslef.
 ## 24-SEP-21
 I lost myself in game of Mirror's Edge Catalyst today. Was gaming for more than 6 hours (with breaks in between ofc). Now it is kinda late, but I still have to code to keep with this challenge. I didn't come this far just to come this far. I'm finishing this.
+## 25-SEP-21
+I really don't feel excited about the physics calculator anymore.
+## 26-SEP-21
+Yesterday I got drunk with my friends and I talked about how I wish there was an mp3 player with e-ink display. So I decided to make one myself. I have a long road ahead of me, but I think it would not be that hard.
