@@ -162,3 +162,5 @@ I lost myself in game of Mirror's Edge Catalyst today. Was gaming for more than 
 I really don't feel excited about the physics calculator anymore.
 ## 26-SEP-21
 Yesterday I got drunk with my friends and I talked about how I wish there was an mp3 player with e-ink display. So I decided to make one myself. I have a long road ahead of me, but I think it would not be that hard.
+## 27-SEP-21
+School starts today, but because I'm having half of the classes online and the other half at school, it is gonna be rough. I had two classes today, and I feel like I lost a lot of free time. I'm now tired and I haven't started coding yet. Hooray.
