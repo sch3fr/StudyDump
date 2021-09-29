@@ -164,3 +164,7 @@ I really don't feel excited about the physics calculator anymore.
 Yesterday I got drunk with my friends and I talked about how I wish there was an mp3 player with e-ink display. So I decided to make one myself. I have a long road ahead of me, but I think it would not be that hard.
 ## 27-SEP-21
 School starts today, but because I'm having half of the classes online and the other half at school, it is gonna be rough. I had two classes today, and I feel like I lost a lot of free time. I'm now tired and I haven't started coding yet. Hooray.
+## 28-SEP-21
+My new favourite thing is coming up with new methods that saves me tons of repeating code.
+## 29-SEP-21
+I was at school whole day and cam back home tiread af, but luckily we did some coding at school. I'm actually proud of the code I wrote there :). I'm really glad I did this challenge over summer break, since it helped me to practice and remember all I learned.
