@@ -168,3 +168,5 @@ School starts today, but because I'm having half of the classes online and the o
 My new favourite thing is coming up with new methods that saves me tons of repeating code.
 ## 29-SEP-21
 I was at school whole day and cam back home tiread af, but luckily we did some coding at school. I'm actually proud of the code I wrote there :). I'm really glad I did this challenge over summer break, since it helped me to practice and remember all I learned.
+## 30-SEP-21
+School was much better today. Plus I got to do some coding on a bus home. There is nothing as Chad-like as typing while looking out of the window.
