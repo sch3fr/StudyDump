@@ -170,3 +170,7 @@ My new favourite thing is coming up with new methods that saves me tons of repea
 I was at school whole day and cam back home tiread af, but luckily we did some coding at school. I'm actually proud of the code I wrote there :). I'm really glad I did this challenge over summer break, since it helped me to practice and remember all I learned.
 ## 30-SEP-21
 School was much better today. Plus I got to do some coding on a bus home. There is nothing as Chad-like as typing while looking out of the window.
+## 1-OCT-21
+I was so tired when I got back from school... I pushed something onto github, but it wasn't much.
+## 3-OCT-21
+Crap I completely forgot to code yesterday. I was so tired from all the school work that I focused on enjoying myslef and resting the whole day that I forgot to code. I'm kinda mad at myslef, but then again, what can I do other than finish the challenge with one day break.
