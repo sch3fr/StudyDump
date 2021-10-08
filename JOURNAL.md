@@ -174,3 +174,7 @@ School was much better today. Plus I got to do some coding on a bus home. There 
 I was so tired when I got back from school... I pushed something onto github, but it wasn't much.
 ## 3-OCT-21
 Crap I completely forgot to code yesterday. I was so tired from all the school work that I focused on enjoying myslef and resting the whole day that I forgot to code. I'm kinda mad at myslef, but then again, what can I do other than finish the challenge with one day break.
+## 7-OCT-21
+Kinda forgot to keep the daily logs haha. Anyway in the past few days I fixed all compillation errors in the calculatior and some of the logical mistakes, and I'm closer than ever to finshing it. Turns out, when you don't repeat the same things over and over, and you actually do something new and challenging, the task becomes instantly more fun.
+## 8-OCT-21
+University is kicking my ass lately. I didn't really code today, I got up at 5AM and came back home at 9PM, so I'm tiread ad, but I still managed to open VS and do somethings here and there in the calculator app. 
