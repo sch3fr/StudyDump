@@ -178,3 +178,7 @@ Crap I completely forgot to code yesterday. I was so tired from all the school w
 Kinda forgot to keep the daily logs haha. Anyway in the past few days I fixed all compillation errors in the calculatior and some of the logical mistakes, and I'm closer than ever to finshing it. Turns out, when you don't repeat the same things over and over, and you actually do something new and challenging, the task becomes instantly more fun.
 ## 8-OCT-21
 University is kicking my ass lately. I didn't really code today, I got up at 5AM and came back home at 9PM, so I'm tiread ad, but I still managed to open VS and do somethings here and there in the calculator app. 
+## 9-OCT-21
+I need to get more structured again. I'm not making much progress and I'm almost forgetting to code. What's happening?
+## 10-OCT-21
+I almost forgot to code today again. What's wrong with me? I feel like I'm having strong brain fog these days. And I'm super tired. Dammit.
