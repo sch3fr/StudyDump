@@ -182,3 +182,5 @@ University is kicking my ass lately. I didn't really code today, I got up at 5AM
 I need to get more structured again. I'm not making much progress and I'm almost forgetting to code. What's happening?
 ## 10-OCT-21
 I almost forgot to code today again. What's wrong with me? I feel like I'm having strong brain fog these days. And I'm super tired. Dammit.
+## 11-OCT-21
+Almost forgot to code today, I was super busy. Anyway today I created new repo for all my school projects. Should be fun. Hopefuly I won't get accused of plagiarising :D.
