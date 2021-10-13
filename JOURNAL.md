@@ -184,3 +184,7 @@ I need to get more structured again. I'm not making much progress and I'm almost
 I almost forgot to code today again. What's wrong with me? I feel like I'm having strong brain fog these days. And I'm super tired. Dammit.
 ## 11-OCT-21
 Almost forgot to code today, I was super busy. Anyway today I created new repo for all my school projects. Should be fun. Hopefuly I won't get accused of plagiarising :D.
+## 12-OCT-21
+I added new calculation type to my calculator app, nothing extreme.
+## 13-OCT-21
+I did a lot of coding at school today. I finished an assignment that was supposed to take 90 minutes in 15, I am really proud of myself.
