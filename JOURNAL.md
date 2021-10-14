@@ -188,3 +188,5 @@ Almost forgot to code today, I was super busy. Anyway today I created new repo f
 I added new calculation type to my calculator app, nothing extreme.
 ## 13-OCT-21
 I did a lot of coding at school today. I finished an assignment that was supposed to take 90 minutes in 15, I am really proud of myself.
+## 14-OCT-21
+I came back from school late again today. It is very late rigt now and I completely forgot to code today. Luckily we did some UI designs at school which I decided to count, since I do have 3 UI apps in production right now and I am not happy with how they look. However I am learning valuable things about UX at school.
