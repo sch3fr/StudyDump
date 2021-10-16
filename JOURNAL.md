@@ -192,3 +192,5 @@ I did a lot of coding at school today. I finished an assignment that was suppose
 I came back from school late again today. It is very late rigt now and I completely forgot to code today. Luckily we did some UI designs at school which I decided to count, since I do have 3 UI apps in production right now and I am not happy with how they look. However I am learning valuable things about UX at school.
 ## 15-OCT-21
 School is kicking my ass these days, however I was still able to udate the WinForms demo thingie we did at class. <br/>I am so close to finishing this challenge oh boy. Not that I didn't like it, but I'm looking forward to coming home from long day at uni and not having to code again. What I really mean I am looking forward to a break.
+## 16-OCT-21
+My friend brought me her computer to fix today. It was challenging, but I'm glad I was able to solve the issue. However it took me better part of the day to do so, and I forgot to cede again. So I'm sitting in bed rigt now with my laptop on my legs typing this and some updates for the physics calculator.
