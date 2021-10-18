@@ -196,3 +196,5 @@ School is kicking my ass these days, however I was still able to udate the WinFo
 My friend brought me her computer to fix today. It was challenging, but I'm glad I was able to solve the issue. However it took me better part of the day to do so, and I forgot to cede again. So I'm sitting in bed rigt now with my laptop on my legs typing this and some updates for the physics calculator.
 ## 17-OCT-21
 I'm really loosing motivation to code these days, let alone the motivation to actually finish the projects I'm working on. But I'm really close to finidhing the challenge, and I don't want to miss any day, so I just have to push through these days to make it to the finish line.
+## 18-OCT-21
+Getting really close to finishing this. While I feel kinda bad about not finishing any of the projects I started, I feel great about practicing  C# and learning more about Git and UI development.
