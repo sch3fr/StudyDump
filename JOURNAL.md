@@ -198,3 +198,5 @@ My friend brought me her computer to fix today. It was challenging, but I'm glad
 I'm really loosing motivation to code these days, let alone the motivation to actually finish the projects I'm working on. But I'm really close to finidhing the challenge, and I don't want to miss any day, so I just have to push through these days to make it to the finish line.
 ## 18-OCT-21
 Getting really close to finishing this. While I feel kinda bad about not finishing any of the projects I started, I feel great about practicing  C# and learning more about Git and UI development.
+## 19-OCT-21
+Day 98 let's go
