@@ -200,3 +200,5 @@ I'm really loosing motivation to code these days, let alone the motivation to ac
 Getting really close to finishing this. While I feel kinda bad about not finishing any of the projects I started, I feel great about practicing  C# and learning more about Git and UI development.
 ## 19-OCT-21
 Day 98 let's go
+## 20-OCT-21
+Version 1.0 of Milos Amazing Physics Calculator is done! Really happy with how it turned out. I have no idea what I'm gonna do tommorow tho xd
