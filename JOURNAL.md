@@ -202,3 +202,7 @@ Getting really close to finishing this. While I feel kinda bad about not finishi
 Day 98 let's go
 ## 20-OCT-21
 Version 1.0 of Milos Amazing Physics Calculator is done! Really happy with how it turned out. I have no idea what I'm gonna do tommorow tho xd
+## 21-OCT-21
+100 DAYS OF CODE CHALLENGE COMPLEtED</br>
+Man I'm so proud of myslef. This is the first time I finished challenge like this. It feels great.</br>
+Can't wait to take a break for a few days. University is really tough this semester, so I'm not sure how much I'll write code, but man am I gald I did this challenge. Even though there were wonky days when I didn't do much just not to break the streak, I'm glad I did this challenge. I was able to keep practising all the thisngs I learned in the first year of school, keep building onto it, and even get ahead in certain subjects (ui design)! I event tiped toes into Android development and the whole Git thing. I really wanna do this challenge again, once I have next summer break.
